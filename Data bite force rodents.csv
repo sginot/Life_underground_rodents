@@ -1,0 +1,62 @@
+genus	species	N	family	life style disparat	life style broad	diet	diet broad		chisel	methode	body mass	SD	bite force	SD	reference	logmass	logBF
+Apodemus	epimelas	6	Muridae	terrestrial	Terrestrial	seed-invertebrate-fruit-root	omnivorous	(P)	NO	Piezo	37,12	4,65	13,78	1,33	This study, A. Herrel	1,5695689666504	1,13923871201441
+Calomyscus	bailwardi	2	Calomyscidae	terrestrial	Terrestrial	leaf-seed-grain-nut	phytophagous	(G)	NO	Piezo	14	0	4,46	0,71	This study, A. Herrel	1,14612803567824	0,648896448003931
+Cavia	porcellus	3	Caviidae	terrestrial	Terrestrial	grass	phytophagous	(S)	NO	Piezo	689	4,58	35,24	1,21	This study, A. Herrel	2,83821922190763	1,54706054685457
+Chinchilla	lanigera	1	Chinchillidae	terrestrial	Terrestrial	grass	phytophagous	(S)	NO	Piezo	649,4		62,38		This study, A. Herrel	2,81251228428998	1,79502448368217
+Dinaromys	bogdanovi	11	Cricetidae	terrestrial	Terrestrial	plantsgreenparts	phytophagous	(G)	NO	Piezo	72,27	5,52	17,61	2,15	This study, A. Herrel	1,85897444349825	1,24588040616509
+Eliomys	quercinus	6	Gliridae	arboreal	Scansorial	fruit-nut-insect-vertebrate	omnivorous	(A)	NO	Piezo	76,03	12,51	14,39	1,99	This study, A. Herrel	1,88100403055699	1,15817646967059
+Lemniscomys	striatus	3	Muridae	terrestrial	Terrestrial	grassstemsandflowers-fruitsleafandseeds	phytophagous	(G)	NO	Piezo	45,67	4,73	13,58	1,35	This study, A. Herrel	1,65959931243674	1,1328571272539
+Mesocricetus	auratus	3	Cricetidae	terrestrial	Scansorial	seed-nut-insect	omnivorous	(P)	NO	Piezo	146,7	25,03	21,89	1,57	This study, A. Herrel	2,16643011384328	1,34017962367366
+Myodes	glareolus	23	Cricetidae	terrestrial	Terrestrial	leaf-fruit-nut-seed-grass	phytophagous	(G)	NO	Piezo	20,67	3,16	9,06	0,48	This study, A. Herrel	1,31523997827717	0,957264792007575
+Myoxus	glis	6	Gliridae	arboreal	Arboreal	fruit-nut-insect-leaf	omnivorous	(P)	NO	Piezo	143,86	30,85	26,76	3,49	This study, A. Herrel	2,15794508738381	1,42741036603446
+Octodon	degus	3	Octodontidae	burrower	Terrestrial	grass	phytophagous	(S)	NO	Piezo	194,33	23,16	34,88	10,36	This study, A. Herrel	2,28854730003935	1,54263457752245
+Rattus	norvegicus	3	Muridae	terrestrial	Terrestrial	fruits-seeds-vegetation-carrion-birds-smallmammals-invertebrates	omnivorous	(P)	NO	Piezo	341	23,64	15,1	3,92	This study, A. Herrel	2,5327543789925	1,1789002439228
+Rhabdomys	pumilio	1	Muridae	terrestrial	Terrestrial	succulentparts-bushes	phytophagous	(G)	NO	Piezo	53,2		16,08		This study, A. Herrel	1,72591163229505	1,20628604441243
+Ctenomys	talarum	15	Ctenomyidae	subterranean	Subterranean	Grass-root	phytophagous	(S)	YES	strain gauge	146,6	19,7	31,67	5,84	Becerra et al, 2011	2,16613397030511	1,50064806337191
+Ctenomys	tuconax	3	Ctenomyidae	subterranean	Subterranean	Grass-root	phytophagous	(S)	YES	strain gauge	520	100,7	74,9	24,3	Becerra et al, 2013	2,7160033436348	1,87448181769947
+Ctenomys	australis	10	Ctenomyidae	subterranean	Subterranean	Grass-root	phytophagous	(S)	YES	strain gauge	360		68,7		Becerra et al, 2014	2,55630250076729	1,83697570147002
+Dipodomys	ordii	11	Heteromyidae	burrower	Terrestrial	seed(almostentirely)-insect	omnivorous	(P)	NO	flexiforce	63	6,77	13,98	2,07	Freeman & Lemen 2008	1,79934054945358	1,14550717140966
+Geomys	bursarius	5	Geomyidae	subterranean	Subterranean	Root-grass	phytophagous	(S)	NO	flexiforce	153	27,23	50,61	7,62	Freeman & Lemen 2008	2,1846914308176	1,70423633730879
+Microtus	ochrogaster	10	Cricetidae	terrestrial	Terrestrial	leaf-nut-seed-grass	phytophagous	(G)	NO	flexiforce	34	6,36	12,88	2,86	Freeman & Lemen 2008	1,53147891704226	1,10991586302379
+Neotoma	floridana	15	Cricetidae	terrestrial	Terrestrial	leaf-bark-seed-nut-fruit	phytophagous	(G)	NO	flexiforce	321	67,48	30,26	4,35	Freeman & Lemen 2008	2,50650503240487	1,48086892368717
+Perognathus	flavescens	1	Heteromyidae	burrower	Terrestrial	seed-ford-grass-insect	omnivorous	(P)	NO	flexiforce	6,5		4,64		Freeman & Lemen 2008	0,812913356642856	0,666517980554881
+Peromyscus	maniculatus	4	Cricetidae	terrestrial	Terrestrial	leaf-bark-root-seed-nut-fruit-insect	omnivorous	(P)	NO	flexiforce	21	2,58	8,83	1,22	Freeman & Lemen 2008	1,32221929473392	0,945960703577569
+Peromyscus	leucopus	10	Cricetidae	terrestrial	Terrestrial	leaf-bark-root-seed-nut-fruit-insect	omnivorous	(P)	NO	flexiforce	23	4,9	10	2,32	Freeman & Lemen 2008	1,36172783601759	1
+Reithrodontomys	megalotis	3	Cricetidae	terrestrial	Terrestrial	leaf-seed-nut-fruit-insect	omnivorous	(P)	NO	flexiforce	11,5	2,29	7,67	0,43	Freeman & Lemen 2008	1,06069784035361	0,884795363948981
+Sciurus	niger	22	Sciuridae	arboreal	Arboreal	Seed-buds-insect-root-eggs-fungi	phytophagous	(G)	NO	flexiforce	588	87,34	72,95	10,19	Freeman & Lemen 2008	2,76937732607614	1,86302529622947
+Sigmodon	hispidus	6	Cricetidae	terrestrial	Terrestrial	leaf-bark-root-seed-nut-fruit-invertebrate	omnivorous	(P)	NO	flexiforce	105	80,28	19,87	7,46	Freeman & Lemen 2008	2,02118929906994	1,29819786710982
+Spermophilus	tridecemlineatus	4	Sciuridae	burrower	Terrestrial	Grass-seed-insect	omnivorous	(P)	NO	flexiforce	144	31,98	21,05	4,35	Freeman & Lemen 2008	2,15836249209525	1,32325210017169
+Zapus	hudsonius	1	Dipodidae	terrestrial	Terrestrial	seed-fruit-invertebrate	omnivorous	(P)	NO	flexiforce	24,5		7,63		Freeman & Lemen 2008	1,38916608436453	0,88252453795488
+Marmota	marmota	30	Sciuridae	burrower	Terrestrial	Grass-leaf	phytophagous	(S)	NO	Piezo	3692,5	505,54	242,64	56,61	This study, S. Ginot	3,56732050398399	2,38496830383922
+Apodemus	sylvaticus	103	Muridae	terrestrial	Terrestrial	seed-invertebrate-fruit-root	omnivorous	(P)	NO	Piezo	20,42		9,09		Ginot et al 2018b	1,31005573775089	0,958563883221967
+Mus	spretus	35	Muridae	terrestrial	Terrestrial	Seed-fruit-insect	omnivorous	(P)	NO	Piezo	13,72		8,31		Ginot et al 2018b	1,13735411137073	0,919601023784111
+Bathyergus	suillus	46	Bathyergidae	subterranean	Subterranean	Herb-grass-bulbs-tubers-roots	phytophagous	(G)	NO	Piezo	534,26	235,58	99,79	43,74	Kraus et al, 2022	2,72775336702327	1,99907091961583
+Cryptomys	hottentotus	15	Bathyergidae	subterranean	Subterranean	Bulbs-corms-tubers	phytophagous	(S)	YES	Piezo	60,87	15,61	22,95	9,02	Kraus et al, 2022	1,78437954226254	1,36086216133032
+Fukomys	anselli	10	Bathyergidae	subterranean	Subterranean	Root-tubers-bulbs-corms-rhizomes	phytophagous	(S)	YES	Piezo	90,53	14,87	24,92	7,39	Kraus et al, 2022	1,95679252037049	1,39661774258272
+Fukomys	damarensis	122	Bathyergidae	subterranean	Subterranean	Bulbs-tubers-root	phytophagous	(S)	YES	Piezo	137,89	37,01	60,58	29,88	Kraus et al, 2022	2,13954360599045	1,78231801361268
+Fukomys	darlingi	26	Bathyergidae	subterranean	Subterranean	root	phytophagous	(S)	YES	Piezo	121,1	32,73	32,98	9,49	Kraus et al, 2022	2,08314414314305	1,51831148514669
+Georychus	capensis	58	Bathyergidae	subterranean	Subterranean	Grass-clover-bulbs-corms-tubers	phytophagous	(G)	YES	Piezo	142,67	39,45	48,52	16,78	Kraus et al, 2022	2,15433999733862	1,68594782287301
+Heliophobius	argenteocinereus	7	Bathyergidae	subterranean	Subterranean	root	phytophagous	(S)	YES	Piezo	207,49	41,49	40,01	11,08	Kraus et al, 2022	2,31698819125604	1,60215302895441
+Heterocephalus	glaber	31	Bathyergidae	subterranean	Subterranean	root	phytophagous	(S)	YES	Piezo	37,93	7,7	14,7	3,25	Kraus et al, 2022	1,5790087186925	1,16722189765205
+Fukomys	mechowii	73	Bathyergidae	subterranean	Subterranean	Rhizomes-roots-bulbs-tubers	phytophagous	(G)	YES	Piezo	93,43	26,4	75,36	52,46	Gomes Rodrigues et al. 2023	1,97050184304062	1,87712477128801
+Fukomys	micklemi	11	Bathyergidae	subterranean	Subterranean	root	phytophagous	(G)	YES	Piezo	75,9	30,58	21,82	11,32	Gomes Rodrigues et al. 2023	1,88024177589548	1,33880769905561
+Fukomys	whytei	8	Bathyergidae	subterranean	Subterranean	root	phytophagous	(G)	YES	Piezo	82,64	18,64	22,96	12,63	Gomes Rodrigues et al. 2023	1,91717717016902	1,3609413817902
+Nannospalax	galili	36	Spalacidae	subterranean	Subterranean	Onions-tubers	phytophagous		YES	Piezo	161,36	31,64	43,08	9,53	Gomes Rodrigues et al. 2023	2,20779139940975	1,63432329728751
+Spalacopus	cyanus	7	Octodontidae	subterranean	Subterranean	root	phytophagous	(S)	YES	Piezo	95,99	22,76	25,65	6,36	Gomes Rodrigues et al. 2023	1,98220660107548	1,40911155671536
+Onychomys	leucogaster	10	Cricetidae	terrestrial	Terrestrial	invertebrate-vertebrate-seed-leaf	omnivorous	(A)	NO	strain gauge	49,85		13,48	5,7	Williams et al 2009	1,69766516264767	1,1296898921993
+Mus	musculus	1861	Muridae	terrestrial	Terrestrial		omnivorous	(P)	NO	Piezo	21,90593	4,671316	8,85184	1,941228	Ginot et al. 2020	1,34056169555549	0,947033555306609
+Mus	minutoides	56	Muridae	terrestrial	Terrestrial				NO	Piezo	7,763636	1,900035	3,388021	1,083576	Ginot et al. 2017	0,890065165189118	0,529946093558272
+Mus	mattheyi	17	Muridae	terrestrial	Terrestrial				NO	Piezo	5,305882	0,7652374	2,479167	0,3723751	This study, S. Ginot	0,724757587274899	0,394305782409475
+Berylmys	berdmorei	1	Muridae	terrestrial	Terrestrial				NO	Piezo	180		21,2625		Ginot et al 2018b	2,25527250510331	1,32761432662063
+Berylmys	bowersi	2	Muridae	terrestrial	Terrestrial	Plants-invertebrates	omnivorous	(P)	NO	Piezo	205,6	76,933218	22,3125	7,2183817	Ginot et al 2018b	2,31302311032324	1,34854823345627
+Maxomys	surifer	7	Muridae	terrestrial	Terrestrial		omnivorous	(P)	NO	Piezo	123,48571	22,309596	20,604167	4,4546409	Ginot et al 2018b	2,09161670312425	1,31395506124759
+Mus	caroli	4	Muridae	terrestrial	Terrestrial		omnivorous	(P)	NO	Piezo	10125	1,800694	4,265625	1,1745092	Ginot et al 2018b	1,00539503188671	0,629982673056869
+Mus	cervicolor	47	Muridae	terrestrial	Terrestrial		omnivorous	(P)	NO	Piezo	12,30233	2,734044	6,117391	1,6186076	Ginot et al 2018b	1,08998737244036	0,786566239810462
+Mus	cookii	7	Muridae	terrestrial	Terrestrial		omnivorous	(P)	NO	Piezo	19,25714	3,84918	5,9625	1,9463775	Ginot et al 2018b	1,28459178774966	0,77542839204817
+Mus	fragilicauda	3	Muridae	terrestrial	Terrestrial		omnivorous	(P)	NO	Piezo	13	5,896609	4,083333	0,5464373	Ginot et al 2018b	1,11394335230684	0,611014798528277
+Mus	pahari	3	Muridae	terrestrial	Terrestrial		omnivorous	(A)	NO	Piezo	21,1	4,7571	5,872222	1,5721167	Ginot et al 2018b	1,32428245529769	0,768802465769135
+Niviventer	fulvescens	9	Muridae	arboreal	Scansorial	Fruit-seed	phytophagous	(G)	NO	Piezo	64,9875	20,526042	17,626389	7,6562639	Ginot et al 2018b	1,81282983044164	1,24616335041615
+Rattus	andamanensis	1	Muridae	terrestrial					NO	Piezo	159,2		26,979167		Ginot et al 2018b	2,20194306340165	1,43102853640748
+Rattus	exulans	38	Muridae	terrestrial	Terrestrial		omnivorous	(P)	NO	Piezo	34,13	13,538919	7,573086	2,9182479	Ginot et al 2018b	1,53313628827864	0,879272888702782
+Rattus	tanezumi	28	Muridae	terrestrial	Terrestrial		omnivorous	(P)	NO	Piezo	77,66667	32,36383	23,907292	6,7970134	Ginot et al 2018b	1,8902346849456	1,37853038598354
+Vandeleuria	oleracea	1	Muridae	arboreal	Arboreal	fruits-buds-flowers	phytophagous	(G)	NO	Piezo	8,9		6,941667		Ginot et al 2018b	0,949390006644913	0,841463776213639

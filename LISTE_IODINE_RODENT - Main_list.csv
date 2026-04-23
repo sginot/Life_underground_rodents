@@ -1,0 +1,631 @@
+Clade,Superfamille,Famille,Sous Famille,Genre,espèces,MUSEUM,NUMERO,MORPHOTYPE,LIFESTYLE,LIFESTYLE_bis,DIET,DIET/BROAD,"Life.mode (Alhajeri et al, 2020)"
+MOUS,Anomaluroidea,Anomaluridae,Anomalurinae,Anomalurus,derbianus,RMCA,325,HYSTRI,arboreal/gliding,arboreal/gliding,bark-fruit-leaf-nut,phytophagous (G),Arboreal
+MOUS,Anomaluroidea,Anomaluridae,Anomalurinae,Anomalurus,derbianus,RMCA,21804,HYSTRI,arboreal/gliding,arboreal/gliding,bark-fruit-leaf-nut,phytophagous (G),Arboreal
+MOUS,Anomaluroidea,Anomaluridae,Idiurinae,Idiurus,macrotis,RMCA,29335,HYSTRI,arboreal/gliding,arboreal/gliding,bark-fruit-sap,phytophagous (G),Arboreal
+MOUS,Anomaluroidea,Anomaluridae,Idiurinae,Idiurus,macrotis,RMCA,38520,HYSTRI,arboreal/gliding,arboreal/gliding,bark-fruit-sap,phytophagous (G),Arboreal
+MOUS,Anomaluroidea,Anomaluridae,Idiurinae,Idiurus,zenkeri,NHMUK,3.2.4.39,HYSTRI,arboreal/gliding,arboreal/gliding,bark-fruit-sap,phytophagous (G),Arboreal
+MOUS,Anomaluroidea,Anomaluridae,Zenkerellinae,Zenkerella,insignis,NHMUK,5.5.23.27,HYSTRI,arboreal,arboreal,NA,NA,Arboreal
+MOUS,Muroidea,Calomyscidae,/,Calomyscus,baluchi,USNM,429369 ou -73,MYOM,terricolous,terrestrial,leaf-seed-grain-nut,phytophagous (G),Terrestrial
+MOUS,Muroidea,Calomyscidae,/,Calomyscus,baluchi,USNM,429369 ou -73,MYOM,terricolous,terrestrial,leaf-seed-grain-nut,phytophagous (G),Terrestrial
+MOUS,Castoroidea,Castoridae,/,Castor,fiber,MB,nonb,MYOM,semiaquatic,semiaquatic,leaf-root-bark-fruit,phytophagous (G),Terrestrial
+MOUS,Muroidea,Cricetidae,Arvicolinae,Alticola,stoliczkanus,NHMUK,1975.296,MYOM,NA,NA,NA,NA,Terrestrial
+MOUS,Muroidea,Cricetidae,Arvicolinae,Arvicola,amphibius,CBUN,NA,MYOM,burrower,burrower (C),leaf-seed-bark- fruit-nut-insect-mollusk,omnivorous (P),Terrestrial
+MOUS,Muroidea,Cricetidae,Arvicolinae,Arvicola,amphibius,UM,QM855,MYOM,burrower,burrower (C),leaf-seed-bark- fruit-nut-insect-mollusk,omnivorous (P),Terrestrial
+MOUS,Muroidea,Cricetidae,Arvicolinae,Arvicola,amphibius,UM-ZOOL,3109/QM857,MYOM,burrower,burrower (C),leaf-seed-bark- fruit-nut-insect-mollusk,omnivorous (P),Terrestrial
+MOUS,Muroidea,Cricetidae,Arvicolinae,Arvicola,amphibius,UM-ZOOL,3110/QM858,MYOM,burrower,burrower (C),leaf-seed-bark- fruit-nut-insect-mollusk,omnivorous (P),Terrestrial
+MOUS,Muroidea,Cricetidae,Arvicolinae,Arvicola,amphibius,UM,QM908,MYOM,burrower,burrower (C),leaf-seed-bark- fruit-nut-insect-mollusk,omnivorous (P),Terrestrial
+MOUS,Muroidea,Cricetidae,Arvicolinae,Dinaromys,bogdanovi,MNHN-ZM-MO,HERREL,MYOM,terricolous,terrestrial,plants green parts,phytophagous (G),Terrestrial
+MOUS,Muroidea,Cricetidae,Arvicolinae,Dicrostonyx,groenlandicus,CBUN,NA,MYOM,burrower,burrower,grass-leaf-fruit-twigs-buds,phytophagous (G),Terrestrial
+MOUS,Muroidea,Cricetidae,Arvicolinae,Dicrostonyx,groenlandicus,NHMUK,1995.14,MYOM,burrower,burrower,grass-leaf-fruit-twigs-buds,phytophagous (G),Terrestrial
+MOUS,Muroidea,Cricetidae,Arvicolinae,Ellobius,talpinus,CBUN,FV15 or FV14?,MYOM,burrower,subterranean (C),bulb-roots-grass roots,phytophagous (G),Subterranean
+MOUS,Muroidea,Cricetidae,Arvicolinae,Ellobius,sp.,NHMUK,1908.3.2.63,MYOM,burrower,subterranean (C),bulb-roots-grass roots,phytophagous (G),Subterranean
+MOUS,Muroidea,Cricetidae,Arvicolinae,Lagurus,lagurus,CBUN,NA,MYOM,burrower,burrower,leaf-root-grass,phytophagous (S),Terrestrial
+MOUS,Muroidea,Cricetidae,Arvicolinae,Lemmus,lemmus,NHMUK,2022.23,MYOM,terricolous,terrestrial,moss- lichen-bark-grass,phytophagous (S),Terrestrial
+MOUS,Muroidea,Cricetidae,Arvicolinae,Lemmus,sibiricus,NHMUK,1976.587,MYOM,terricolous,terrestrial,moss- lichen-bark-grass,phytophagous (S),Terrestrial
+MOUS,Muroidea,Cricetidae,Arvicolinae,Myodes,sp.,NHMUK,1856-7-9-9-15a,MYOM,terricolous,terrestrial,leaf-fruit-nut-seed-grass,phytophagous (G),Terrestrial
+MOUS,Muroidea,Cricetidae,Arvicolinae,Myodes,sp.,NHMUK,1856-7-9-9-15b,MYOM,terricolous,terrestrial,leaf-fruit-nut-seed-grass,phytophagous (G),Terrestrial
+MOUS,Muroidea,Cricetidae,Arvicolinae,Myodes,glareolus,NHMUK,1979.66,MYOM,terricolous,terrestrial,leaf-fruit-nut-seed-grass,phytophagous (G),Terrestrial
+MOUS,Muroidea,Cricetidae,Arvicolinae,Myodes,glareolus,NHMUK,1979.71,MYOM,terricolous,terrestrial,leaf-fruit-nut-seed-grass,phytophagous (G),Terrestrial
+MOUS,Muroidea,Cricetidae,Arvicolinae,Myodes,glareolus,NHMUK,1979.67,MYOM,terricolous,terrestrial,leaf-fruit-nut-seed-grass,phytophagous (G),Terrestrial
+MOUS,Muroidea,Cricetidae,Arvicolinae,Microtus,sp.,MB,2018-34-15,MYOM,terricolous,terrestrial,leaf-nut-seed-grass,phytophagous (G),Terrestrial
+MOUS,Muroidea,Cricetidae,Arvicolinae,Microtus,sp.,MB,2023-2-21,MYOM,terricolous,terrestrial,leaf-nut-seed-grass,phytophagous (G),Terrestrial
+MOUS,Muroidea,Cricetidae,Arvicolinae,Microtus,sp.,CBGP,1,MYOM,terricolous,terrestrial,leaf-nut-seed-grass,phytophagous (G),Terrestrial
+MOUS,Muroidea,Cricetidae,Arvicolinae,Microtus,sp.,CBGP,2,MYOM,terricolous,terrestrial,leaf-nut-seed-grass,phytophagous (G),Terrestrial
+MOUS,Muroidea,Cricetidae,Arvicolinae,Ondatra,zibethicus,UM,486N,MYOM,semiaquatic,semiaquatic/burrower,hydrophyte root-vertebrate-invertebrate,omnivorous (P),Terrestrial
+MOUS,Muroidea,Cricetidae,Arvicolinae,Prometheomys,schaposchnikowi,CBUN,FV19,MYOM,burrower,subterranean,"strictly herbivorous, roots tuber and bulbs",phytophagous (G),Subterranean
+MOUS,Muroidea,Cricetidae,Cricetinae,Mesocricetus,auratus,NHMUK,1992.42,MYOM,terricolous,terrestrial,seed-nut-insect,omnivorous (P),Scansorial
+MOUS,Muroidea,Cricetidae,Cricetinae,Nothocricetulus,migratorius,NHMUK,1880.4.9.10,MYOM,terricolous,terrestrial,root-leaf-seed-insect,omnivorous (P),Terrestrial
+MOUS,Muroidea,Cricetidae,Cricetinae,Nothocricetulus,migratorius,NHMUK,1880.4.9.11,MYOM,terricolous,terrestrial,root-leaf-seed-insect,omnivorous (P),Terrestrial
+MOUS,Muroidea,Cricetidae,Cricetinae,Phodopus,sp.,CBUN,-,MYOM,burrower,burrower,leaf-fruit-nut-seed-bark-insect,omnivorous (P),Terrestrial
+MOUS,Muroidea,Cricetidae,Neotomyinae,Neotoma,lepida,UWBM,37681,MYOM,terricolous,terrestrial,leaf-bark-seed-nut-fruit,phytophagous (G),Terrestrial
+MOUS,Muroidea,Cricetidae,Neotomyinae,Onychomys,torridus,UWBM,37628,MYOM,terricolous,terrestrial,invertebrate-vertebrate-seed-leaf,omnivorous (A),Terrestrial
+MOUS,Muroidea,Cricetidae,Neotomyinae,Peromyscus,leucopus,MNHN-ZM-MO,1874-85 bis A,MYOM,terricolous,terrestrial,leaf-bark-root-seed-nut-fruit-insect,omnivorous (P),Terrestrial
+MOUS,Muroidea,Cricetidae,Neotomyinae,Reithrodontomys,megalotis,UWBM,74514,MYOM,terricolous,terrestrial,leaf-seed-nut-fruit-insect,omnivorous (P),Terrestrial
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Holochilus,brasiliensis,MNHN-ZM-MO,CG1994-5,MYOM,semiaquatic,semiaquatic,leaf and other items of plant origin,phytophagous (G),Terrestrial
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Hylaeamys,megacephalus,JAGUARS,M1823,MYOM,terrestrial,terrestrial,mainly fruits and seeds,phytophagous (G),Terrestrial
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Hylaeamys,megacephalus,JAGUARS,M3349,MYOM,terrestrial,terrestrial,mainly fruits and seeds,phytophagous (G),Terrestrial
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Hylaeamys,megacephalus,JAGUARS,M2983,MYOM,terrestrial,terrestrial,mainly fruits and seeds,phytophagous (G),Terrestrial
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Hylaeamys,megacephalus,JAGUARS,V3644,MYOM,terrestrial,terrestrial,mainly fruits and seeds,phytophagous (G),Terrestrial
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Hylaeamys,yunganus,JAGUARS,M3002,MYOM,terrestrial,terrestrial,mainly fruits and seeds,phytophagous (G),Terrestrial
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Hylaeamys,yunganus,JAGUARS,M6015,MYOM,terrestrial,terrestrial,mainly fruits and seeds,phytophagous (G),Terrestrial
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Neacomys,paracou,JAGUARS,M1674,MYOM,terrestrial,terrestrial,NA,NA,Terrestrial
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Neacomys,sp.,JAGUARS,M2185,MYOM,terrestrial,terrestrial,NA,NA,Terrestrial
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Neacomys,paracou,JAGUARS,V3649,MYOM,terrestrial,terrestrial,NA,NA,Terrestrial
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Nectomys,rattus,JAGUARS,V3614,MYOM,terrestrial,terrestrial,NA,NA,Terrestrial
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Nectomys,rattus,JAGUARS,V3616,MYOM,terrestrial,terrestrial,NA,NA,Terrestrial
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Nectomys,rattus,JAGUARS,V3621,MYOM,terrestrial,terrestrial,NA,NA,Terrestrial
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Nectomys,rattus,JAGUARS,V3629,MYOM,terrestrial,terrestrial,NA,NA,Terrestrial
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Nectomys,rattus,JAGUARS,M1689,MYOM,terrestrial,terrestrial,NA,NA,Terrestrial
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Nectomys,rattus,JAGUARS,M1856,MYOM,terrestrial,terrestrial,NA,NA,Terrestrial
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Oecomys,auyantepui,JAGUARS,M2029,MYOM,arboreal,arboreal,NA,NA,Terrestrial
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Oecomys,bicolor,JAGUARS,M1678,MYOM,arboreal,arboreal,arthropods and plant parts,omnivorous,Terrestrial
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Oecomys,bicolor,JAGUARS,M1857,MYOM,arboreal,arboreal,arthropods and plant parts,omnivorous,Terrestrial
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Oecomys,bicolor,JAGUARS, M2847,MYOM,arboreal,arboreal,arthropods and plant parts,omnivorous,Terrestrial
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Oecomys,bicolor,UM,V3623,MYOM,arboreal,arboreal,arthropods and plant parts,omnivorous,Terrestrial
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Oecomys,bicolor,UM,V3624,MYOM,arboreal,arboreal,arthropods and plant parts,omnivorous,Terrestrial
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Oecomys,rex,UM,V3650,MYOM,arboreal,arboreal,NA,NA,Terrestrial
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Oecomys,rex,UM,V3652,MYOM,arboreal,arboreal,NA,NA,Terrestrial
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Oecomys,rutilus,UM,V3625,MYOM,scansorial,terrestrial,NA,NA,Terrestrial
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Oecomys,rutilus,UM,V3627,MYOM,scansorial,terrestrial,NA,NA,Terrestrial
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Oligoryzomys,delicatus,JAGUARS,M1701,MYOM,terrestrial,terrestrial,seed-fruit-insect,omnivorous (P),
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Oligoryzomys,delicatus,JAGUARS,M3252,MYOM,terrestrial,terrestrial,seed-fruit-insect,omnivorous (P),
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Oligoryzomys,delicatus,JAGUARS,M3254,MYOM,terrestrial,terrestrial,seed-fruit-insect,omnivorous (P),
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Oligoryzomys,delicatus,JAGUARS,M1592,MYOM,terrestrial,terrestrial,seed-fruit-insect,omnivorous (P),
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Oligoryzomys,delicatus,JAGUARS,M1688,MYOM,terrestrial,terrestrial,seed-fruit-insect,omnivorous (P),
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Sigmodon,hispidus,MNHN-ZM-MO,2000-231,MYOM,terricolous,terrestrial,leaf-bark-root-seed-nut-fruit-invertebrate,omnivorous (P),Terrestrial
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Thomasomys,sp.,MUSM,40832,MYOM,,,,,Scansorial
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Thomasomys,sp.,MUSM,DMC 059,MYOM,,,,,Scansorial
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Zygodontomys,brevicauda,JAGUARS,M1376,MYOM,terricolous,terrestrial,seed-nut-fruit-insect,omnivorous (P),Terrestrial
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Zygodontomys,brevicauda,JAGUARS,M1824,MYOM,terricolous,terrestrial,seed-nut-fruit-insect,omnivorous (P),Terrestrial
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Zygodontomys,brevicauda,JAGUARS,M2047,MYOM,terricolous,terrestrial,seed-nut-fruit-insect,omnivorous (P),Terrestrial
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Zygodontomys,brevicauda,JAGUARS,M2754,MYOM,terricolous,terrestrial,seed-nut-fruit-insect,omnivorous (P),Terrestrial
+MOUS,Muroidea,Cricetidae,Sigmodontinae,Zygodontomys,brevicauda,JAGUARS,M6016,MYOM,terricolous,terrestrial,seed-nut-fruit-insect,omnivorous (P),Terrestrial
+MOUS,Muroidea,Cricetidae,Tylomyinae,Tylomys,watsoni,USNM,460460,MYOM,arboreal,arboreal,fruit-leaf-seed-lichen-bark,phytophagous (G),Terrestrial
+MOUS,Muroidea,Cricetidae,Tylomyinae,Tylomys,watsoni,USNM,460459,MYOM,arboreal,arboreal,fruit-leaf-seed-lichen-bark,phytophagous (G),Terrestrial
+MOUS,Dipodoidea,Dipodidae,Allactaginae,Allactaga,elater,NHMUK,1886.10.15.15-16,HYSTRI,terricolous,terrestrial,seed- insect-succulent parts of plant,omnivorous (P),Terrestrial
+MOUS,Dipodoidea,Dipodidae,Cardiocraniinae,Salpingotulus,michaelis,NHMUK,65.4168,HYSTRI,terricolous,terrestrial,plant-grass seed,phytophagous (G),Terrestrial
+MOUS,Dipodoidea,Dipodidae,Dipodinae,Jaculus,jaculus,NHMUK,95.34,HYSTRI,terricolous,terrestrial,root-grass-seed-nut-insect,omnivorous (P),Terrestrial
+MOUS,Dipodoidea,Dipodidae,Dipodinae,Jaculus,jaculus,NHMUK,79.2181,HYSTRI,terricolous,terrestrial,root-grass-seed-nut-insect,omnivorous (P),Terrestrial
+MOUS,Dipodoidea,Dipodidae,Dipodinae,Jaculus,jaculus,CBUN,CSB 002,HYSTRI,terricolous,terrestrial,root-grass-seed-nut-insect,omnivorous (P),Terrestrial
+MOUS,Dipodoidea,Dipodidae,Dipodinae,Jaculus,jaculus,CBUN,CSB 003,HYSTRI,terricolous,terrestrial,root-grass-seed-nut-insect,omnivorous (P),Terrestrial
+MOUS,Dipodoidea,Dipodidae,Dipodinae,Jaculus,jaculus,CBUN,CSB 004,HYSTRI,terricolous,terrestrial,root-grass-seed-nut-insect,omnivorous (P),Terrestrial
+MOUS,Dipodoidea,Dipodidae,Sicistinae,Sicista,betulina,CBUN,unreg1,HYSTRI,terricolous,terrestrial,leaf-grass-seed-fruit-invertebrate,omnivorous (P),Terrestrial
+MOUS,Dipodoidea,Zapodidae,Zapodinae,Zapus,trinotatus,UWBM,57265,HYSTRI,terrestrial,terrestrial,seed-fruit-invertebrate,omnivorous (P),Terrestrial
+MOUS,Geomyoidea,Geomyidae,/,Thomomys,mazama,UWBM,38906,SCIURO,burrower,subterranean,plant species-grass-root-wood-forbs,phytophagous (G),Subterranean
+MOUS,Geomyoidea,Geomyidae,/,Thomomys,talpoides,CBUN,FU23CB,SCIURO,burrower,subterranean (C),root-seed-nut-leaf,phytophagous (G),Subterranean
+MOUS,Geomyoidea,Heteromyidae,Dipodomyinae,Dipodomys,merriami,UWBM,37549,SCIURO,terricolous,burrower,seed (almost entirely)-insect,omnivorous (P),Terrestrial
+MOUS,Geomyoidea,Heteromyidae,Dipodomyinae,Dipodomys,sp.,CBUN,2,SCIURO,terricolous,burrower,seed (almost entirely)-insect,omnivorous (P),Terrestrial
+MOUS,Geomyoidea,Heteromyidae,Heteromyinae,Heteromys,desmarestianus,NHMUK,2003.221,SCIURO,terrestrial,burrower,seed-nut-fruit-insect,omnivorous (P),Terrestrial
+MOUS,Geomyoidea,Heteromyidae,Perognathinae,Chaetodipus,formosus,UWBM,37577,SCIURO,terricolous,burrower,leaf-seed-nut-fruit-insect,omnivorous (P),Terrestrial
+MOUS,Geomyoidea,Heteromyidae,Perognathinae,Perognathus,longimembris,UWBM,37550,SCIURO,terricolous,burrower,seed-ford-grass-insect,omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Deomyinae,Acomys,airensis,MNHN-ZM-MO,1993-1961,MYOM,terrestrial,terrestrial,insect-plant,omnivorous (A),Terrestrial
+MOUS,Muroidea,Muridae,Deomyinae,Acomys,airensis,MNHN-ZM-MO,1993-1962,MYOM,terrestrial,terrestrial,insect-plant,omnivorous (A),Terrestrial
+MOUS,Muroidea,Muridae,Deomyinae,Acomys,kempi,CBUN,ETH0332,MYOM,terrestrial,terrestrial,insect-plant,omnivorous (A),Terrestrial
+MOUS,Muroidea,Muridae,Deomyinae,Acomys,kempi,CBUN,KE804,MYOM,terrestrial,terrestrial,insect-plant,omnivorous (A),Terrestrial
+MOUS,Muroidea,Muridae,Deomyinae,Deomys,ferrugineus,MNHN-ZM-MO,1996-709,MYOM,terrestrial,terrestrial,invertebrate-fruit-nut,omnivorous (A),Terrestrial
+MOUS,Muroidea,Muridae,Deomyinae,Deomys,ferrugineus,MNHN-ZM-MO,1996-707,MYOM,terrestrial,terrestrial,invertebrate-fruit-nut,omnivorous (A),Terrestrial
+MOUS,Muroidea,Muridae,Deomyinae,Lophuromys,sikapusi,MNHN-ZM-MO,2013-236,MYOM,terrestrial,terrestrial,insect-plant,omnivorous (A),Terrestrial
+MOUS,Muroidea,Muridae,Deomyinae,Lophuromys,sikapusi,MNHN-ZM-MO,2013-260,MYOM,terrestrial,terrestrial,insect-plant,omnivorous (A),Terrestrial
+MOUS,Muroidea,Muridae,Deomyinae,Lophuromys,angolensis,CBUN,ANG0208,MYOM,NA,NA,insect-plant,omnivorous (A),Terrestrial
+MOUS,Muroidea,Muridae,Deomyinae,Lophuromys,angolensis,CBUN,ANG0282,MYOM,NA,NA,insect-plant,omnivorous (A),Terrestrial
+MOUS,Muroidea,Muridae,Deomyinae,Uranomys,ruddi,MNHN-ZM-MO,1996-2080,MYOM,terrestrial,terrestrial,insect-plant,omnivorous (A),Terrestrial
+MOUS,Muroidea,Muridae,Deomyinae,Uranomys,ruddi,MNHN-ZM-MO,1996-2078,MYOM,terrestrial,terrestrial,insect-plant,omnivorous (A),Terrestrial
+MOUS,Muroidea,Muridae,Gerbillinae,Gerbilliscus,angolae,CBUN,ANG0104,MYOM,terricolous,terrestrial,primarily herbivorous 5% insect,phytophagous (G),Terrestrial
+MOUS,Muroidea,Muridae,Gerbillinae,Gerbilliscus,kempi,CBUN,ETH1372,MYOM,terricolous,terrestrial,granivorous herbivorous,phytophagous (G),Terrestrial
+MOUS,Muroidea,Muridae,Gerbillinae,Gerbillus,sp.,MNHN-ZM-MO,HERREL,MYOM,terricolous,terrestrial,seed-nut-grass-root-insect,omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Gerbillinae,Gerbillus,sp.,MNHN-ZM-MO,2001-623,MYOM,terricolous,terrestrial,seed-nut-grass-root-insect,omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Gerbillinae,Gerbillus,sp.,MNHN-ZM-MO,2001-624,MYOM,terricolous,terrestrial,seed-nut-grass-root-insect,omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Gerbillinae,Meriones,shawi,MNHN-ZM-MO,CG 1993-2269,MYOM,terricolous,terrestrial,seed-grass-leaf-fruit,phytophagous (G),Terrestrial
+MOUS,Muroidea,Muridae,Gerbillinae,Psammomys,obesus,UM,577N,MYOM,terricolous,terrestrial,leaf and stem of amaranthaceae,phytophagous (S),Terrestrial
+MOUS,Muroidea,Muridae,Lophiomyinae,Lophiomys,imhausi,NHMUK,unreg,MYOM,terricolous,terrestrial,leaf-fruit-root,phytophagous (G),Scansorial
+MOUS,Muroidea,Muridae,Lophiomyinae,Lophiomys,imhausi,NMK,unreg,MYOM,terricolous,terrestrial,leaf-fruit-root,phytophagous (G),Scansorial
+MOUS,Muroidea,Muridae,Murinae,Abeomelomys,sevia,CBUN?,MW3200_139,MYOM,arboreal,arboreal,NA,NA,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Aethomys,hindei,CBUN,ETH1371,MYOM,terrestrial,terrestrial,NA,phytophagous (G),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Aethomys,kaiseri,CBUN,KE623,MYOM,terrestrial,terrestrial,fruit-seed-leaf-stem-insect,omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Aethomys,kaiseri,CBUN,TA113,MYOM,terrestrial,terrestrial,fruit-seed-leaf-stem-insect,omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Aethomys,chrysophilus,MNHN-ZM-MO,1993-4365,MYOM,terrestrial,terrestrial,fruit-seed-leaf-stem-insect,omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Aethomys,chrysophilus,MNHN-ZM-MO,1993-4364,MYOM,terrestrial,terrestrial,fruit-seed-leaf-stem-insect,omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Aethomys,sp.,CBUN,ANG0288,MYOM,terrestrial,terrestrial,NA,omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Aethomys,sp.,CBUN,ANG0290,MYOM,terrestrial,terrestrial,NA,omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Anisomys,imitator,CBUN,FR2200_020,MYOM,scansorial,arboreal,fruit-nut,phytophagous (G),Scansorial
+MOUS,Muroidea,Muridae,Murinae,Anonymomys,mindorensis,N,222898,MYOM,arboreal,arboreal,NA,NA,Arboreal
+MOUS,Muroidea,Muridae,Murinae,Apodemus,sylvaticus,MB,2018-34-14,MYOM,terricolous,terrestrial,seed-invertebrate-fruit-root,omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Apodemus,sylvaticus,MB,2018-34-16,MYOM,terricolous,terrestrial,seed-invertebrate-fruit-root,omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Apomys,sp.,,46-45?,MYOM,terrestrial,terrestrial,NA,omnivorous (A?),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Apomys,banahao,CBGP,P0067,MYOM,terrestrial,terrestrial,NA,omnivorous (A?),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Apomys,banahao,CBGP,P0064,MYOM,terrestrial,terrestrial,NA,omnivorous (A?),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Apomys,banahao,CBGP,P0045,MYOM,terrestrial,terrestrial,NA,omnivorous (A?),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Apomys,banahao,CBGP,P0032,MYOM,terrestrial,terrestrial,NA,omnivorous (A?),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Apomys,banahao,CBGP,P0049,MYOM,terrestrial,terrestrial,NA,omnivorous (A?),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Apomys,banahao,CBGP,P0066,MYOM,terrestrial,terrestrial,NA,omnivorous (A?),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Apomys,datae,FMNH,188274,MYOM,terrestrial,terrestrial,"earthworms, insects and seeds",omnivorous (A),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Apomys,datae,FMNH,188256,MYOM,terrestrial,terrestrial,"earthworms, insects and seeds",omnivorous (A),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Apomys,datae,FMNH,188272,MYOM,terrestrial,terrestrial,"earthworms, insects and seeds",omnivorous (A),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Apomys,microdon,FMNH,209408,MYOM,arboreal,arboreal,"seeds, insects and earthworms",omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Apomys,musculus,FMNH,193681,MYOM,arboreal,arboreal,"seeds, insects and earthworms",omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Archboldomys,maximus,FMNH,193524,MYOM,terrestrial,terrestrial,earthworm-centipede-insect ,carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Arvicanthis,niloticus,MNHN-ZM-MO,1993-2522,MYOM,terricolous,terrestrial,grass-leaf-stem-seed-bark-nut-insect,omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Arvicanthis,niloticus,MNHN-ZM-MO,1993-2520,MYOM,terricolous,terrestrial,grass-leaf-stem-seed-bark-nut-insect,omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Arvicanthis,somalicus,CBUN,KE117,MYOM,terricolous,terrestrial,grass-leaf-stem-seed-bark-nut-insect,omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Arvicanthis,sp.,CBUN,KE897,MYOM,terricolous,terrestrial,grass-leaf-stem-seed-bark-nut-insect,omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Baiyankamys,shawmayeri,CBUN?,MW3200_209,MYOM,semiaquatic,semiaquatic,aquatic invertebrate-vertebrate,carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Batomys,granti,FMNH,193696,MYOM,terrestrial,terrestrial,seed-fruit-leaf,phytophagous (G),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Batomys,granti,FMNH,193690,MYOM,terrestrial,terrestrial,seed-fruit-leaf,phytophagous (G),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Berylmys,berdmorei,UM,7184,MYOM,terricolous,terrestrial,NA,NA,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Berylmys,berdmorei,UM,7214,MYOM,terricolous,terrestrial,NA,NA,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Berylmys,berdmorei,UM,7215,MYOM,terricolous,terrestrial,NA,NA,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Berylmys,bowersi,UM,7219,MYOM,terricolous,terrestrial,plants and some invertebrates,omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Berylmys,bowersi,UM,7220,MYOM,terricolous,terrestrial,plants and some invertebrates,omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Berylmys,bowersi,UM,7221,MYOM,terricolous,terrestrial,plants and some invertebrates,omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Berylmys,bowersi,UM,7234,MYOM,terricolous,terrestrial,plants and some invertebrates,omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Berylmys,sp.,UM,7202,MYOM,NA,NA,NA,NA,
+MOUS,Muroidea,Muridae,Murinae,Bullimus,luzonicus,FMNH,234993,MYOM,terrestrial,terrestrial,green plant material,phytophagous (G),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Bullimus,luzonicus,FMNH,234988,MYOM,terrestrial,terrestrial,green plant material,phytophagous (G),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Chiropodomys,gliroides,EBD,BORN014,MYOM,arboreal,arboreal,NA,phytophagous (G),Arboreal
+MOUS,Muroidea,Muridae,Murinae,Chiropodomys,major,EBD,BORN678,MYOM,arboreal,arboreal,NA,NA,Arboreal
+MOUS,Muroidea,Muridae,Murinae,Chrotomys,mindorensis,FMNH,222107,MYOM,terricolous,terrestrial,earthworm-insect-snail,carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Chrotomys,mindorensis,FMNH,222111,MYOM,terricolous,terrestrial,earthworm-insect-snail,carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Chrotomys,mindorensis,FMNH,222085,MYOM,terricolous,terrestrial,earthworm-insect-snail,carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Coccymys,ruemmleri,CBUN,MW 3700-027,MYOM,scansorial,terrestrial,seed-fruit-arthropods,omnivorous (P),Scansorial
+MOUS,Muroidea,Muridae,Murinae,Colomys,goslingi,FMNH,207491,MYOM,semiaquatic,semiaquatic,invertebrate-vertebrate,carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Crateromys,heaneyi,CBUN,nonb,MYOM,arboreal,arboreal,fruit-leaf-seed,phytophagous (G),Arboreal
+MOUS,Muroidea,Muridae,Murinae,Dasymys,incomtus,CBUN,M8x3020,MYOM,terricolous,terrestrial,wood-bark-stem-insect,omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Dasymys,rufulus,MNHN-ZM-MO,1984-1130,MYOM,terricolous,terrestrial,herbivorous grass and leaf,phytophagous (G),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Dasymys,rufulus,MNHN-ZM-MO,2005-544,MYOM,terricolous,terrestrial,herbivorous grass and leaf,phytophagous (G),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Dephomys,defua,MNHN-ZM-MO,2015-1259,MYOM,NA,NA,plant-insect,omnivorous (P),Arboreal
+MOUS,Muroidea,Muridae,Murinae,Dephomys,defua,MNHN-ZM-MO,2015-1256,MYOM,NA,NA,plant-insect,omnivorous (P),Arboreal
+MOUS,Muroidea,Muridae,Murinae,Desmomys,harringtoni,CBUN,ETH1581,MYOM,arboreal,arboreal,NA,NA,Scansorial
+MOUS,Muroidea,Muridae,Murinae,Desmomys,yaldeni,CBUN,ETH1422,MYOM,NA,NA,NA,NA,Scansorial
+MOUS,Muroidea,Muridae,Murinae,Echiothrix,leucura,MV,kcr2456,MYOM,NA,NA,earthworms,carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Echiothrix,leucura,,1184,MYOM,NA,NA,earthworms,carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Echiothrix,leucura,AMNH,225046,MYOM,NA,NA,earthworms,carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Echiothrix,sp.,SUISSE,unreg,MYOM,NA,NA,earthworms,carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Golunda,ellioti,NHMUK,1892.1.9.32,MYOM,terrestrial,terrestrial,"grass, stems, roots, seeds, berries, shoots, buds",phytophagous (G),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Grammomys,macmillani,CBUN,ETH1420,MYOM,NA,NA,NA,NA,Arboreal
+MOUS,Muroidea,Muridae,Murinae,Grammomys,poensis,MNHN-ZM-MO,1996-2106,MYOM,arboreal,arboreal,"fruit, flower, leaf, seeds, insects",omnivorous (P),Arboreal
+MOUS,Muroidea,Muridae,Murinae,Grammomys,poensis,MNHN-ZM-MO,1996-2104,MYOM,arboreal,arboreal,"fruit, flower, leaf, seeds, insects",omnivorous (P),Arboreal
+MOUS,Muroidea,Muridae,Murinae,Halmaheramys,wallacei,MZB,specimen1,MYOM,terrestrial,terrestrial,vegetation and arthopods,omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Hapalomys,longicaudatus,AMNH,242686,MYOM,NA,NA,"bamboo, fruits, shoots",phytophagous (G),Arboreal
+MOUS,Muroidea,Muridae,Murinae,Hybomys,univittatus,MNHN-ZM-MO,1996-831,MYOM,terrestrial,terrestrial,,,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Hybomys,univittatus,MNHN-ZM-MO,1997-848,MYOM,terrestrial,terrestrial,,,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Hybomys,sp.,MNHN-ZM-MO,1997-388,MYOM,terrestrial,terrestrial,,,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Hydromys,chrysogaster,MZB,ys342,MYOM,semiaquatic,semiaquatic,aquatic invertebrates and vertebrates,carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Hydromys,chrysogaster,MZB,ys391,MYOM,semiaquatic,semiaquatic,aquatic invertebrates and vertebrates,carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Hydromys,chrysogaster,UM,pao102,MYOM,semiaquatic,semiaquatic,aquatic invertebrates and vertebrates,carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Hydromys,chrysogaster,UM,pao024,MYOM,semiaquatic,semiaquatic,aquatic invertebrates and vertebrates,carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Hydromys,chrysogaster,UM,pao009,MYOM,semiaquatic,semiaquatic,aquatic invertebrates and vertebrates,carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Hylomyscus,sp.,MNHN-ZM-MO,1996-978,MYOM,,,,,Arboreal
+MOUS,Muroidea,Muridae,Murinae,Hylomyscus,sp.,MNHN-ZM-MO,1996-987,MYOM,,,,,Arboreal
+MOUS,Muroidea,Muridae,Murinae,Hylomyscus,endorobae,CBUN,KE269,MYOM,NA,NA,NA,NA,Arboreal
+MOUS,Muroidea,Muridae,Murinae,Hylomyscus,endorobae,CBUN,KE270,MYOM,NA,NA,NA,NA,Arboreal
+MOUS,Muroidea,Muridae,Murinae,Hyorhinomys,stuempkei,MV,NMVC37198,MYOM,NA,NA,"earthworms, beetle larvae and insects",carnivorous,
+MOUS,Muroidea,Muridae,Murinae,Lemniscomys,striatus,MNHN-ZM-MO,2003-472,MYOM,terrestrial,terrestrial,"grass stems and flowers, fruits leaf and seeds",phytophagous (G),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Lemniscomys,striatus,MNHN-ZM-MO,2003-472,MYOM,terrestrial,terrestrial,"grass stems and flowers, fruits leaf and seeds",phytophagous (G),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Lemniscomys,striatus,CBUN,KE796,MYOM,terrestrial,terrestrial,"grass stems and flowers, fruits leaf and seeds",phytophagous (G),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Lemniscomys,striatus,CBUN,KE199,MYOM,terrestrial,terrestrial,"grass stems and flowers, fruits leaf and seeds",phytophagous (G),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Lenothrix,canus,EBD,BOR036,MYOM,arboreal,arboreal,NA,NA,Arboreal
+MOUS,Muroidea,Muridae,Murinae,Leopoldamys,sabanus,EBD,BOR041,MYOM,terrestrial,terrestrial,"insects, snails, fruits, roots and leaf",omnivorous (A),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Leopoldamys,sabanus,EBD,BOR031,MYOM,terrestrial,terrestrial,"insects, snails, fruits, roots and leaf",omnivorous (A),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Leptomys,ernstmayri,CBUN,FR 2200-033,MYOM,terrestrial,terrestrial,,,
+MOUS,Muroidea,Muridae,Murinae,Lorentzimys,nouhuysi,BMNH,50335,MYOM,scansorial,arboreal,"insects, plant material, fungi",omnivorous,Arboreal
+MOUS,Muroidea,Muridae,Murinae,Lorentzimys,nouhuysi,CBUN,MW-2700-064,MYOM,scansorial,arboreal,"insects, plant material, fungi",omnivorous,Arboreal
+MOUS,Muroidea,Muridae,Murinae,Lorentzimys,nouhuysi,CBUN,MW-2700-131,MYOM,scansorial,arboreal,"insects, plant material, fungi",omnivorous,Arboreal
+MOUS,Muroidea,Muridae,Murinae,Uromys,wanang,CBUN,PJ8Wanang,MYOM,,,,,Scansorial
+MOUS,Muroidea,Muridae,Murinae,Mallomys,aroaensis,CBUN,MW3200_048,MYOM,,,,,Arboreal
+MOUS,Muroidea,Muridae,Murinae,Melasmothrix,naso,AMNH,225097,MYOM,terrestrial,terrestrial,"earthworms, fungus gnats",omnivorous (A),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Melomys/Pogonomys,sp.,CBUN,FR2200-002,MYOM,,,,,
+MOUS,Muroidea,Muridae,Murinae,Macruromys,major,CBUN,FR 1200-029,MYOM,terricolous,terrestrial,NA,NA,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Malacomys,longipes,MNHN-ZM-MO,1991-126,MYOM,semiaquatic,semiaquatic,"vegetable matter, insects, snug, snail, earthworm",omnivorous (A),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Malacomys,longipes,MNHN-ZM-MO,1991-136,MYOM,semiaquatic,semiaquatic,"vegetable matter, insects, snug, snail, earthworm",omnivorous (A),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Mastacomys,fuscus,MV,C9999,MYOM,terrestrial,terrestrial,"grass, sedges, shrubs",phytophagous (G),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Mastomys,natalensis,MNHN-ZM-MO,1993-168,MYOM,terricolous,terrestrial,"grain, seeds, mais, leaf, shrubs, insect, carrion",omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Mastomys,natalensis,MNHN-ZM-MO,1993-166,MYOM,terricolous,terrestrial,"grain, seeds, mais, leaf, shrubs, insect, carrion",omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Mastomys,angolensis,CBUN,ANG0203,MYOM,terrestrial,terrestrial,NA,NA,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Mastomys,angolensis,CBUN,ANG0204,MYOM,terrestrial,terrestrial,NA,NA,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Mastomys,sp.,CBUN,KE610,MYOM,,,,,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Mastomys,sp.,CBUN,KE608,MYOM,,,,,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Maxomys,alticola,EBD,no number,MYOM,terrestrial,terrestrial,insects,carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Maxomys,alticola,EBD,BOR200,MYOM,terrestrial,terrestrial,insects,carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Pseudohydromys,ellermani,CBUN,FR 2200-043,MYOM,terrestrial,terrestrial,insects,carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Pseudohydromys,ellermani,CBUN,FR 2200-024,MYOM,terrestrial,terrestrial,insects,carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Melomys,sp.,CBUN,FR 200-022,MYOM,,,,,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Micaelamys,namaquensis,CBUN,ANG0001,MYOM,terrestrial,terrestrial,"grass, foliage, seed, insect",omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Micaelamys,namaquensis,CBUN,ANG0009,MYOM,terrestrial,terrestrial,"grass, foliage, seed, insect",omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Microhydromys,richardsoni,CBUN,MW1200-008,MYOM,terrestrial,terrestrial,NA,NA,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Microhydromys,sp.,CBUN,MW1200-036,MYOM,terrestrial,terrestrial,NA,NA,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Millardia,meltada,MNHN-ZM-MO,2009-659 or 658,MYOM,terricolous,terrestrial,"leaf, stem, seed",phytophagous (G),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Millardia,meltada,MNHN-ZM-MO,2004-650,MYOM,terricolous,terrestrial,"leaf, stem, seed",phytophagous (G),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Millardia,meltada,MNHN-ZM-MO,no number,MYOM,terricolous,terrestrial,"leaf, stem, seed",phytophagous (G),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Mus,crociduroides,LSUMZ,39556 (HH1430),MYOM,terrestrial,terrestrial,invertebrates,carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Mus,crociduroides,LSUMZ,39557 (HH1436),MYOM,terrestrial,terrestrial,invertebrates,carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Myomyscus,brockmani,CBUN,KE046,MYOM,terrestrial,terrestrial,starch,phytophagous (G),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Myomyscus,brockmani,CBUN,KE047,MYOM,terrestrial,terrestrial,starch,phytophagous (G),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Nannomys,sp.,UM,LH,MYOM,,,,,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Nannomys,sp.,UM,MD,MYOM,,,,,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Niviventer,cremoriventer,BOR,133,MYOM,arboreal,arboreal,"fruit, seed",phytophagous (G),Scansorial
+MOUS,Muroidea,Muridae,Murinae,Notomys,alexis,MV,31400,MYOM,terricolous,terrestrial,"seed,flower, stem, foliage, root, fungi, invertebrate",omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Nesokia,indica,NHMUK, 1909.7.1.82.84,MYOM,terricolous,burrower (C),"root, grass, grain, vegetable, fruit",phytophagous (G),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Oenomys,hypoxanthus,CBUN,KE441,MYOM,terrestrial,terrestrial,"grass, stem, leaf, fruit, bark, invertebrates other than insects",omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Oenomys,hypoxanthus,CBUN,KE485,MYOM,terrestrial,terrestrial,"grass, stem, leaf, fruit, bark, invertebrates other than insects",omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Palawanomys,furvus,FMNH,195411,MYOM,terrestrial,terrestrial,NA,NA,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Paraleptomys,wilhelmina,AMNH,152744,MYOM,NA,NA,NA,NA,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Paucidentomys,vermidax,MV,C38394,MYOM,NA,NA,earthworms,carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Pelomys,campanae,MNHN-ZM-MO,1997-416,MYOM,NA,NA,NA,NA,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Pelomys,campanae,MNHN-ZM-MO,1997-417,MYOM,NA,NA,NA,NA,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Pelomys,fallax,CBUN,RS1371,MYOM,terrestrial,terrestrial,"leaf, stem of grasses, seed, insect",omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Phloeomys,pallidus,CBUN,nonb,MYOM,arboreal,arboreal,"soft plant, leaf, bamboo shoot",phytophagous (G),Arboreal
+MOUS,Muroidea,Muridae,Murinae,Pithecheir,melanurus,MNHN-ZM-MO,1895-2063,MYOM,arboreal,arboreal,green plant material,phytophagous (G),Arboreal
+MOUS,Muroidea,Muridae,Murinae,Pogonomys,loriae,CBUN,MW-1700-033,MYOM,arboreal,arboreal,"flower, pollen, grass stem ",phytophagous (G),Arboreal
+MOUS,Muroidea,Muridae,Murinae,Pogonomys,macrourus,MV,C2126,MYOM,arboreal,arboreal,"fruit, leaf",phytophagous (G),Arboreal
+MOUS,Muroidea,Muridae,Murinae,Pogonomys,macrourus,CBUN,MW-1200-027,MYOM,arboreal,arboreal,"fruit, leaf",phytophagous (G),Arboreal
+MOUS,Muroidea,Muridae,Murinae,Pogonomelomys,sp2.,CBUN,FR2200-039,MYOM,,,,,Scansorial
+MOUS,Muroidea,Muridae,Murinae,Praomys,jacksoni,CBUN,KE330,MYOM,terrestrial,terrestrial,"fruit, seed, nut, kernel, insects",omnivorous (P),Scansorial
+MOUS,Muroidea,Muridae,Murinae,Praomys,jacksoni,CBUN,KE330,MYOM,terrestrial,terrestrial,"fruit, seed, nut, kernel, insects",omnivorous (P),Scansorial
+MOUS,Muroidea,Muridae,Murinae,Praomys,sp.,MNHN-ZM-MO,1997-381,MYOM,NA,NA,NA,NA,Scansorial
+MOUS,Muroidea,Muridae,Murinae,Praomys,rostratus,MNHN-ZM-MO,1997-388,MYOM,terrestrial,terrestrial,NA,NA,Scansorial
+MOUS,Muroidea,Muridae,Murinae,Praomys,rostratus,MNHN-ZM-MO,1997-389,MYOM,terrestrial,terrestrial,NA,NA,Scansorial
+MOUS,Muroidea,Muridae,Murinae,Pseudomys,fumeus,MV,C27811,MYOM,terrestrial,terrestrial,"seed, berries, fungi, insect",omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Pseudomys,australis,MV,C4544,MYOM,terricolous,terrestrial,"seed, green plants and insect",omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Pseudohydromys,murinus,CBUN,MW 2700-106,MYOM,terrestrial,terrestrial,insects,carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Pseudohydromys,fuscus,CBUN,MW 2700-047,MYOM,terrestrial,terrestrial,insects,carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Pseudohydromys,sp.,CBUN,MW 3700-054,MYOM,terrestrial,terrestrial,,,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Pseudohydromys,sp.,CBUN,MW 3700-058,MYOM,terrestrial,terrestrial,,,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Rhabdomys,pumilio,CBUN,M8x0111,MYOM,terricolous,terrestrial,"succulent parts, bushes",phytophagous (G),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Rhabdomys,pumilio,CBUN,M8x0112,MYOM,terricolous,terrestrial,"succulent parts, bushes",phytophagous (G),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Rhabdomys,sp.,CBUN,KE210,MYOM,,,,,
+MOUS,Muroidea,Muridae,Murinae,Rhabdomys,sp.,CBUN,KE257,MYOM,,,,,
+MOUS,Muroidea,Muridae,Murinae,Rattus,baluensis,EBD,BOR210,MYOM,NA,NA,pitcher plants,phytophagous (S),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Rattus,everetti,FMNH,191094,MYOM,scansorial,terrestrial,"seeds, fruits, invertebrates, crops",omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Rattus,everetti,FMNH,191092,MYOM,scansorial,terrestrial,"seeds, fruits, invertebrates, crops",omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Rattus,fuscipes,MV,C17053,MYOM,terricolous,terrestrial,"fungi, stems, leaves, grasses, insects, fruits, seeds",omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Rattus,norvegicus,UM-ZOOL,3105,MYOM,terrestrial,terrestrial,"fruits, seeds,vegetation, carrion, birds, small mammals, invertebrates",omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Rhynchomys,isarogensis,USNM,USNM573913,MYOM,terrestrial,terrestrial,"earthworms, amphipods, larvae",carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Rhynchomys,soricoides,FMNH,193836,MYOM,terrestrial,terrestrial,"earthworms, soil invertebrates",carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Rhynchomys,soricoides,FMNH,193833,MYOM,terrestrial,terrestrial,"earthworms, soil invertebrates",carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Sommeromys,macrorhinos,MV,C38609,MYOM,NA,NA,"insects, nematodes, insect eggs",carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Sommeromys,macrorhinos,MV,C38564,MYOM,NA,NA,"insects, nematodes, insect eggs",carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Soricomys,leonardocoi,FMNH,Probably one of the two below,MYOM,terrestrial,terrestrial,"insects, earthworms, other invertebrates",carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Soricomys,leonardocoi,FMNH,190967,MYOM,terrestrial,terrestrial,"insects, earthworms, other invertebrates",carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Soricomys,leonardocoi,FMNH,190966,MYOM,terrestrial,terrestrial,"insects, earthworms, other invertebrates",carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Soricomys,leonardocoi,FMNH,190166,MYOM,terrestrial,terrestrial,"insects, earthworms, other invertebrates",carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Soricomys,montanus,FMNH,no number,MYOM,terrestrial,terrestrial,"arthropods, earthworms",carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Stenocephalemys,albipes,CBUN,ETH1426,MYOM,scansorial,terrestrial,"berries, leaves",phytophagous (G),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Stenomys,sp.,MV,C2104,MYOM,,,,,
+MOUS,Muroidea,Muridae,Murinae,Stochomys,longicaudatus,MNHN-ZM-MO,2000-288,MYOM,scansorial,terrestrial,"fruits, seeds, insects",omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Stochomys,longicaudatus,MNHN-ZM-MO,2000-286,MYOM,scansorial,terrestrial,"fruits, seeds, insects",omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Sundamys,infraluteus,EBD,BORN282,MYOM,NA,NA,"shoots, twigs, bark",phytophagous (G),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Sundamys,infraluteus,EBD,BORN510,MYOM,NA,NA,"shoots, twigs, bark",phytophagous (G),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Sundamys,infraluteus,EBD,BORN272,MYOM,NA,NA,"shoots, twigs, bark",phytophagous (G),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Sundamys,muelleri,EBD,BOR572,MYOM,terrestrial,terrestrial,"fruits, leaves, shoots, invertebrates, and other vegetable matter",omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Sundamys,muelleri,EBD,BORN567,MYOM,terrestrial,terrestrial,"fruits, leaves, shoots, invertebrates, and other vegetable matter",omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Sundamys,muelleri,EBD,BORN173,MYOM,terrestrial,terrestrial,"fruits, leaves, shoots, invertebrates, and other vegetable matter",omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Sundamys,muelleri,EBD,BORN031,MYOM,terrestrial,terrestrial,"fruits, leaves, shoots, invertebrates, and other vegetable matter",omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Sundamys,muelleri,EBD,BORN424,MYOM,terrestrial,terrestrial,"fruits, leaves, shoots, invertebrates, and other vegetable matter",omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Tarsomys,apoensis,FMNH,147968,MYOM,terrestrial,terrestrial,earthworms and insects,carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Tateomys,rhinogradoides,AMNH,223968,MYOM,terrestrial,terrestrial,earthworms,carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Tateomys,rhinogradoides,MV,kcr2694,MYOM,terrestrial,terrestrial,earthworms,carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Tateomys,rhinogradoides,MV,C38439,MYOM,terrestrial,terrestrial,earthworms,carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Tateomys,rhinogradoides,MV,C38407,MYOM,terrestrial,terrestrial,earthworms,carnivorous,Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Thallomys,sp.,CBUN,ANG0137,MYOM,,,,,Scansorial
+MOUS,Muroidea,Muridae,Murinae,Thallomys,sp.,CBUN,ANG0157,MYOM,,,,,Scansorial
+MOUS,Muroidea,Muridae,Murinae,Vandeleuria,oleracea,THAILAND,no number,MYOM,arboreal,arboreal,"fruits, buds, and flowers",phytophagous (G),Arboreal
+MOUS,Muroidea,Muridae,Murinae,Zelotomys,woosnami,NHMUK,1910.7.1.82-84,MYOM,terricolous,terrestrial,seeds and animal matters,omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Murinae,Zelotomys,woosnami,NHMUK,1910.6.3.86,MYOM,terricolous,terrestrial,seeds and animal matters,omnivorous (P),Terrestrial
+MOUS,Muroidea,Muridae,Otomyinae,Otomys,tropicalis,CBUN,KE211,MYOM,terrestrial,terrestrial,grass-root-bark-seed-fruit,phytophagous (G),Terrestrial
+MOUS,Muroidea,Muridae,Otomyinae,Otomys,typicus,CBUN,ETH1177,MYOM,terrestrial,terrestrial,grass stem and leaves,phytophagous (G),Terrestrial
+MOUS,Muroidea,Muridae,Otomyinae,Otomys,typicus,CBUN,ETH1178,MYOM,terrestrial,terrestrial,grass stem and leaves,phytophagous (G),Terrestrial
+MOUS,Muroidea,Nesomyidae,Cricetomyinae,Cricetomys,gambianus,CBGP,CR01,MYOM,terricolous,terrestrial,ruit-seed-nut-fruit-invertebrate,omnivorous (P),Terrestrial
+MOUS,Muroidea,Nesomyidae,Cricetomyinae,Cricetomys,gambianus,CBGP,LG1555,MYOM,terricolous,terrestrial,ruit-seed-nut-fruit-invertebrate,omnivorous (P),Terrestrial
+MOUS,Muroidea,Nesomyidae,Cricetomyinae,Cricetomys,gambianus,CBGP,LG1553,MYOM,terricolous,terrestrial,ruit-seed-nut-fruit-invertebrate,omnivorous (P),Terrestrial
+MOUS,Muroidea,Nesomyidae,Cricetomyinae,Cricetomys,gambianus,CBGP,KB6336,MYOM,terricolous,terrestrial,ruit-seed-nut-fruit-invertebrate,omnivorous (P),Terrestrial
+MOUS,Muroidea,Nesomyidae,Cricetomyinae,Cricetomys,gambianus,CBGP,LH1,MYOM,terricolous,terrestrial,ruit-seed-nut-fruit-invertebrate,omnivorous (P),Terrestrial
+MOUS,Muroidea,Nesomyidae,Cricetomyinae,Cricetomys,gambianus,CBGP,CB1977,MYOM,terricolous,terrestrial,ruit-seed-nut-fruit-invertebrate,omnivorous (P),Terrestrial
+MOUS,Muroidea,Nesomyidae,Cricetomyinae,Saccostomus,campestris,UM,TDR106,MYOM,terricolous,terrestrial,seed-nut-fruit-insect,omnivorous (P),Terrestrial
+MOUS,Muroidea,Nesomyidae,Cricetomyinae,Saccostomus,campestris,UM,TDR105,MYOM,terricolous,terrestrial,seed-nut-fruit-insect,omnivorous (P),Terrestrial
+MOUS,Muroidea,Nesomyidae,Dendromurinae,Dendromus,sp.,UM,TDR109,MYOM,scansorial,terrestrial,,omnivorous (P),Terrestrial
+MOUS,Muroidea,Nesomyidae,Dendromurinae,Dendromus,mystacalis,NHMUK,1975.3181,MYOM,scansorial,terrestrial,"44% vegetable material, 40% seeds, 16% arthropods",omnivorous (P),Terrestrial
+MOUS,Muroidea,Nesomyidae,Dendromurinae,Malacothrix,typica,NHMUK,1898.2.3.5,MYOM,terricolous,terrestrial,"diet averaged 16% seeds, 72% herbage and 12% insects on a year-long basis",omnivorous (P),Terrestrial
+MOUS,Muroidea,Nesomyidae,Dendromurinae,Steatomys,caurinus,RMCA,1993.012.M.0353,MYOM,terricolous,terrestrial,NA,NA,Terrestrial
+MOUS,Muroidea,Nesomyidae,Dendromurinae,Steatomys,parvus,CBUN,RS0713,MYOM,terricolous,terrestrial,NA,NA,Terrestrial
+MOUS,Muroidea,Nesomyidae,Dendromurinae,Steatomys,krebsi,CBUN,RS0977,MYOM,terricolous,terrestrial,NA,NA,Terrestrial
+MOUS,Muroidea,Nesomyidae,Nesomyinae,Brachyuromys,betsileoensis,FMNH,169221,MYOM,terricolous,terrestrial,completely or largely herbivorous,phytophagous (S),Arboreal
+MOUS,Muroidea,Nesomyidae,Nesomyinae,Brachyuromys,betsileoensis,MNHN-ZM-MO,1972-588,MYOM,terricolous,terrestrial,completely or largely herbivorous,phytophagous (S),Arboreal
+MOUS,Muroidea,Nesomyidae,Nesomyinae,Brachyuromys,betsileoensis,MNHN-ZM-MO,1972-598,MYOM,terricolous,terrestrial,completely or largely herbivorous,phytophagous (S),Arboreal
+MOUS,Muroidea,Nesomyidae,Nesomyinae,Eliurus,majori,FMNH,165986,MYOM,arboreal,arboreal,grains and fruits,phytophagous (G),Scansorial
+MOUS,Muroidea,Nesomyidae,Nesomyinae,Gymnuromys,roberti,FMNH,151896,MYOM,terricolous,terrestrial,seed-nut-fruit,phytophagous (G),Terrestrial
+MOUS,Muroidea,Nesomyidae,Nesomyinae,Gymnuromys,roberti,FMNH,538,MYOM,terricolous,terrestrial,seed-nut-fruit,phytophagous (G),Terrestrial
+MOUS,Muroidea,Nesomyidae,Nesomyinae,Hypogeomys,antimena,CBUN,NMP,MYOM,terricolous,terrestrial,leaf-seed-nut-fruit-insect,omnivorous (P),Terrestrial
+MOUS,Muroidea,Nesomyidae,Nesomyinae,Macrotarsomys,ingens,FMNH,161601,MYOM,arboreal,arboreal,seeds and fruit,phytophagous (G),Terrestrial
+MOUS,Muroidea,Nesomyidae,Nesomyinae,Monticolomys,koopmani,FMNH,161703,MYOM,scansorial,terrestrial,grain-fruit-invertebrate,omnivorous (P),Scansorial
+MOUS,Muroidea,Nesomyidae,Nesomyinae,Nesomys,rufus,FMNH,173271,MYOM,terricolous,terrestrial,seed,phytophagous (G),Terrestrial
+MOUS,Muroidea,Nesomyidae,Nesomyinae,Voalavo,antsahabensis,FMNH,188700,MYOM,terricolous,terrestrial,seed-fruit ,phytophagous (G),Terrestrial
+MOUS,Muroidea,Nesomyidae,Petromyscinae,Petromyscus,sp.,CBUN,ANG0154,MYOM,terricolous,terrestrial,seed-stem-insect,omnivorous (P),Terrestrial
+MOUS,Muroidea,Nesomyidae,Petromyscinae,Petromyscus,sp.,CBUN,ANG0162,MYOM,terricolous,terrestrial,seed-stem-insect,omnivorous (P),Terrestrial
+MOUS,Anomaluroidea,Pedetidae,/,Pedetes,capensis,MNHN-ZM-MO,HERREL,HYSTRI,terricolous,burrower,root-leaf-seed-insect,omnivorous (P),Terrestrial
+MOUS,Anomaluroidea,Pedetidae,/,Pedetes,capensis,CBUN,1,HYSTRI,terricolous,burrower,root-leaf-seed-insect,omnivorous (P),Terrestrial
+MOUS,Muroidea,Platacanthomyidae,/,Platacanthomys,lasiurus,NHMUK,1915.2.12.1-2,MYOM,arboreal,arboreal,fruit-seed-root,phytophagous (G),Arboreal
+MOUS,Muroidea,Platacanthomyidae,/,Typhlomys,cinereus,RUS,101505,MYOM,arboreal,arboreal,leaf-root-seed-fruit,phytophagous (G),Arboreal
+MOUS,Muroidea,Platacanthomyidae,/,Typhlomys,cinereus,RUS,101504,MYOM,arboreal,arboreal,leaf-root-seed-fruit,phytophagous (G),Arboreal
+MOUS,Muroidea,Spalacidae,Myospalacinae,Eospalax,fontanierii,NHMUK,1909.1.1.286,MYOM,burrower,subterranean,root-plant underparts,phytophagous (S),Subterranean
+MOUS,Muroidea,Spalacidae,Rhizomyinae,Cannomys,badius,CBUN,HDMK 18,MYOM,burrower,subterranean (C),bamboo root-grass,phytophagous (S),Subterranean
+MOUS,Muroidea,Spalacidae,Rhizomyinae,Cannomys,badius,CBUN,HDMK 26,MYOM,burrower,subterranean (C),bamboo root-grass,phytophagous (S),Subterranean
+MOUS,Muroidea,Spalacidae,Rhizomyinae,Cannomys,badius,CBUN,HDMK HUAY,MYOM,burrower,subterranean (C),bamboo root-grass,phytophagous (S),Subterranean
+MOUS,Muroidea,Spalacidae,Spalacinae,Spalax,sp.,CBUN,ISR007,MYOM,burrower,subterranean (C),leaf-root-bark-seed-nut,phytophagous (G),Subterranean
+MOUS,Muroidea,Spalacidae,Spalacinae,Spalax,sp.,CBUN,961,MYOM,burrower,subterranean (C),leaf-root-bark-seed-nut,phytophagous (G),Subterranean
+MOUS,Muroidea,Spalacidae,Spalacinae,Nannospalax,leucodon,NHMUK,1986.1781,MYOM,burrower,subterranean (C),bulb-root-tuber,phytophagous (S),Subterranean
+MOUS,Muroidea,Spalacidae,Spalacinae,Nannospalax,galili,CBUN,8074,MYOM,burrower,subterranean (C),NA,NA,Subterranean
+MOUS,Muroidea,Spalacidae,Tachyoryctinae,Tachyoryctes,macrocephalus,CBUN,ETH935,MYOM,burrower,subterranean (C),grass-herb-root-tuber,phytophagous (G),Subterranean
+MOUS,Muroidea,Spalacidae,Tachyoryctinae,Tachyoryctes,splendens,CBUN,ID558,MYOM,burrower,subterranean (C),"grass rhizomes, stems and leaves, herbs, roots and storage organs of geophytes",phytophagous (G),Subterranean
+MOUS,Muroidea,Spalacidae,Tachyoryctinae,Tachyoryctes,splendens,RMCA,1980.055.M.0189,MYOM,burrower,subterranean (C),"grass rhizomes, stems and leaves, herbs, roots and storage organs of geophytes",phytophagous (G),Subterranean
+SQUIR,Aplodontoidea,Aplodontidae,/,Aplodontia,rufa,UM,805V,PROTRO,burrower,burrower,leaf,phytophagous (G),Terrestrial
+SQUIR,Aplodontoidea,Aplodontidae,/,Aplodontia,rufa,UM,806V,PROTRO,burrower,burrower,leaf,phytophagous (G),Terrestrial
+SQUIR,Gliroidea,Gliridae,Glirinae,Glis,glis,UM,MC316,MYOM,arboreal,arboreal,fruit-nut-insect-leaf,omnivorous (P),Arboreal
+SQUIR,Gliroidea,Gliridae,Glirinae,Glis,glis,UM,2217,MYOM,arboreal,arboreal,fruit-nut-insect-leaf,omnivorous (P),Arboreal
+SQUIR,Gliroidea,Gliridae,Glirinae,Glis,glis,UM,2215,MYOM,arboreal,arboreal,fruit-nut-insect-leaf,omnivorous (P),Arboreal
+SQUIR,Gliroidea,Gliridae,Glirinae,Glis,glis,UM,AN01,MYOM,arboreal,arboreal,fruit-nut-insect-leaf,omnivorous (P),Arboreal
+SQUIR,Gliroidea,Gliridae,Leithiinae,Muscardinus,avellanarius,NHMUK,1977.856,MYOM,arboreal,arboreal,fruit-nut-insect,omnivorous (P),Arboreal
+SQUIR,Gliroidea,Gliridae,Leithiinae,Eliomys,quercinus,UM,25111971,MYOM,arboreal,arboreal,fruit-nut-insect-vertebrate,omnivorous (A),Scansorial
+SQUIR,Gliroidea,Gliridae,Leithiinae,Eliomys,quercinus,UM,no number,MYOM,arboreal,arboreal,fruit-nut-insect-vertebrate,omnivorous (A),Scansorial
+SQUIR,Gliroidea,Gliridae,Leithiinae,Eliomys,quercinus,UM,no number,MYOM,arboreal,arboreal,fruit-nut-insect-vertebrate,omnivorous (A),Scansorial
+SQUIR,Gliroidea,Gliridae,Leithiinae,Eliomys,quercinus,CBUN,MC88,MYOM,arboreal,arboreal,fruit-nut-insect-vertebrate,omnivorous (A),Scansorial
+SQUIR,Gliroidea,Gliridae,Leithiinae,Eliomys,quercinus,CBUN,no number,MYOM,arboreal,arboreal,fruit-nut-insect-vertebrate,omnivorous (A),Scansorial
+SQUIR,Gliroidea,Gliridae,Leithiinae,Eliomys,melanurus,CBUN,no number,MYOM,arboreal,arboreal,fruit-nut-insect-vertebrate,omnivorous (A),Scansorial
+SQUIR,Gliroidea,Gliridae,Leithiinae,Eliomys,melanurus,CBUN,no number,MYOM,arboreal,arboreal,fruit-nut-insect-vertebrate,omnivorous (A),Scansorial
+SQUIR,Gliroidea,Gliridae,Graphiurinae,Graphiurus,sp.,CBUN,ANG0121,HYSTRI,arboreal,arboreal,fruit-nut-insect-vertebrate,omnivorous (A),Scansorial
+SQUIR,Gliroidea,Gliridae,Graphiurinae,Graphiurus,sp.,CBUN,ANG0007,HYSTRI,arboreal,arboreal,fruit-nut-insect-vertebrate,omnivorous (A),Scansorial
+SQUIR,Gliroidea,Gliridae,Graphiurinae,Graphiurus,sp.,CBUN,ETH0706,HYSTRI,arboreal,arboreal,fruit-nut-insect-vertebrate,omnivorous (A),Scansorial
+SQUIR,Gliroidea,Gliridae,Graphiurinae,Graphiurus,parvus,NHMUK,1986.1173,HYSTRI,arboreal,arboreal,fruit-nut-insect-vertebrate,omnivorous (A),Scansorial
+SQUIR,Gliroidea,Gliridae,Graphiurinae,Graphiurus,platyops,NHMUK,1897.8.6.7,HYSTRI,arboreal,arboreal,fruit-nut-insect-vertebrate,omnivorous (A),Scansorial
+SQUIR,Gliroidea,Gliridae,Graphiurinae,Graphiurus,sp.,CBUN,ETH0706,HYSTRI,arboreal,arboreal,fruit-nut-insect-vertebrate,omnivorous (A),Scansorial
+SQUIR,Gliroidea,Gliridae,Graphiurinae,Graphiurus,lorraineus,NHMUK,1956.68,HYSTRI,arboreal,arboreal,fruit-nut-insect-vertebrate,omnivorous (A),Scansorial
+SQUIR,Gliroidea,Gliridae,Graphiurinae,Graphiurus,kelleni,RMCA,1978.011.M.0004,HYSTRI,arboreal,arboreal,fruit-nut-insect-vertebrate,omnivorous (A),Scansorial
+SQUIR,Gliroidea,Gliridae,Graphiurinae,Graphiurus,kelleni,CBUN,ETH0600,HYSTRI,arboreal,arboreal,fruit-nut-insect-vertebrate,omnivorous (A),Scansorial
+SQUIR,Gliroidea,Gliridae,Graphiurinae,Graphiurus,kelleni,CBUN,ETH1594,HYSTRI,arboreal,arboreal,fruit-nut-insect-vertebrate,omnivorous (A),Scansorial
+SQUIR,Gliroidea,Gliridae,Graphiurinae,Graphiurus,kelleni,RMCA,1996.038.M3522,HYSTRI,arboreal,arboreal,fruit-nut-insect-vertebrate,omnivorous (A),Scansorial
+SQUIR,Gliroidea,Gliridae,Graphiurinae,Graphiurus,murinus,CBUN,ETH0708,HYSTRI,arboreal,arboreal,fruit-nut-insect-vertebrate,omnivorous (A),Scansorial
+SQUIR,Gliroidea,Gliridae,Graphiurinae,Graphiurus,murinus,CBUN,ETH1565,HYSTRI,arboreal,arboreal,fruit-nut-insect-vertebrate,omnivorous (A),Scansorial
+SQUIR,Gliroidea,Gliridae,Graphiurinae,Graphiurus,sp.,CBUN,ETH0121,HYSTRI,arboreal,arboreal,fruit-nut-insect-vertebrate,omnivorous (A),Scansorial
+SQUIR,Gliroidea,Gliridae,Graphiurinae,Graphiurus,sp.,CBUN,ETH658,HYSTRI,arboreal,arboreal,fruit-nut-insect-vertebrate,omnivorous (A),Scansorial
+SQUIR,Sciuroidea,Sciuridae,Callosciurinae,Callosciurus,prevostii,MB,2022.2.5,SCIURO,arboreal,arboreal,fruit-nut-leaf-seed-insect,omnivorous (P),Arboreal
+SQUIR,Sciuroidea,Sciuridae,Callosciurinae,Exilisciurus,whiteheadi,NHMUK,1895.10.4.40,SCIURO,arboreal,arboreal,bark-moss-licken,phytophagous (S),Arboreal
+SQUIR,Sciuroidea,Sciuridae,Callosciurinae,Funambulus,palmarum,NHMUK,1971.792,SCIURO,arboreal,arboreal,nut-fruit-insect-leaf,omnivorous (P),Scansorial
+SQUIR,Sciuroidea,Sciuridae,Callosciurinae,Exilisciurus,exilis,NHMUK,1892.6.1.10,SCIURO,arboreal,arboreal,bark-vegetable matter and small insects,omnivorous (P),Arboreal
+SQUIR,Sciuroidea,Sciuridae,Callosciurinae,Nannosciurus,melanotis,NHMUK,2022.21,SCIURO,arboreal,arboreal,bark,phytophagous (S),Scansorial
+SQUIR,Sciuroidea,Sciuridae,Callosciurinae,Rhinosciurus,robinsoni,NHMUK,1915.12.28.6,SCIURO,arboreal,arboreal,insect-earthworm,omnivorous (A),Terrestrial
+SQUIR,Sciuroidea,Sciuridae,Callosciurinae,Sundasciurus,philippinensis,FMNH,208786,SCIURO,terrestrial,terrestrial,leaf-seed-bark- fruit-nut-insect,omnivorous (P),Terrestrial
+SQUIR,Sciuroidea,Sciuridae,Callosciurinae,Tamiops,maritimus,NHMUK,2022.5.4,SCIURO,arboreal,arboreal,insect-bark-seed-nut-fruit,omnivorous (A),Arboreal
+SQUIR,Sciuroidea,Sciuridae,Sciurinae,Petinomys,sp.,NHMUK,1903.11.2.5,SCIURO,arboreal,arboreal,seed-nut-fruit,phytophagous (G),Arboreal
+SQUIR,Sciuroidea,Sciuridae,Sciurinae,Sciurus,aestuans,MNHN-ZM-MO,1902-46A,SCIURO,arboreal,arboreal,fruit-nut-seed-fungi,phytophagous (G),Arboreal
+SQUIR,Sciuroidea,Sciuridae,Sciurinae,Sciurus,aestuans,MNHN-ZM-MO,1902-46B,SCIURO,arboreal,arboreal,fruit-nut-seed-fungi,phytophagous (G),Arboreal
+SQUIR,Sciuroidea,Sciuridae,Sciurinae,Sciurus,aestuans,MNHN-ZM-MO,1902-45,SCIURO,arboreal,arboreal,fruit-nut-seed-fungi,phytophagous (G),Arboreal
+SQUIR,Sciuroidea,Sciuridae,Sciurinae,Sciurus,aestuans,MNHN-ZM-MO,1995-891,SCIURO,arboreal,arboreal,fruit-nut-seed-fungi,phytophagous (G),Arboreal
+SQUIR,Sciuroidea,Sciuridae,Sciurinae,Sciurus,vulgaris,MNHN-ZM-MO,13269,SCIURO,arboreal,arboreal,fruit-nut-leaf-seed,phytophagous (G),Arboreal
+SQUIR,Sciuroidea,Sciuridae,Sciurinae,Sciurus,vulgaris,MB,2022.2.12,SCIURO,arboreal,arboreal,fruit-nut-leaf-seed,phytophagous (G),Arboreal
+SQUIR,Sciuroidea,Sciuridae,Sciurinae,Sciurus,vulgaris,MB,2022.2.15,SCIURO,arboreal,arboreal,fruit-nut-leaf-seed,phytophagous (G),Arboreal
+SQUIR,Sciuroidea,Sciuridae,Sciurinae,Sciurus,vulgaris,MB,2023.2.14,SCIURO,arboreal,arboreal,fruit-nut-leaf-seed,phytophagous (G),Arboreal
+SQUIR,Sciuroidea,Sciuridae,Sciurinae,Sciurus,vulgaris,MB,2022.2.4,SCIURO,arboreal,arboreal,fruit-nut-leaf-seed,phytophagous (G),Arboreal
+SQUIR,Sciuroidea,Sciuridae,Sciurinae,Sciurus,vulgaris,MB,2022.2.7,SCIURO,arboreal,arboreal,fruit-nut-leaf-seed,phytophagous (G),Arboreal
+SQUIR,Sciuroidea,Sciuridae,Sciurinae,Sciurus,vulgaris,MB,2022.2.8,SCIURO,arboreal,arboreal,fruit-nut-leaf-seed,phytophagous (G),Arboreal
+SQUIR,Sciuroidea,Sciuridae,Sciurinae,Sciurus,vulgaris,MB,2022.2.16,SCIURO,arboreal,arboreal,fruit-nut-leaf-seed,phytophagous (G),Arboreal
+SQUIR,Sciuroidea,Sciuridae,Sciurinae,Sciurus,vulgaris,MB,2021.2.8,SCIURO,arboreal,arboreal,fruit-nut-leaf-seed,phytophagous (G),Arboreal
+SQUIR,Sciuroidea,Sciuridae,Ratufinae,Ratufa,sp.,NHMUK,2022.24,SCIURO,arboreal,arboreal,fruit-nut-bark-insect,omnivorous (P),Arboreal
+SQUIR,Sciuroidea,Sciuridae,Xerinae,Ammospermophilus,leucurus,UWBM,37679,SCIURO,terricolous,burrower,fruit-nut-leaf-seed-insect,omnivorous (P),Terrestrial
+SQUIR,Sciuroidea,Sciuridae,Xerinae,Atlantoxerus,getulus,NHMUK,1977.291,SCIURO,terricolous,terrestrial,fruit-nut-leaf-seed-insect-vertebrate,omnivorous (P),Terrestrial
+SQUIR,Sciuroidea,Sciuridae,Xerinae,Spermophilus,citellus,UM,unreg,SCIURO,,,,,
+SQUIR,Sciuroidea,Sciuridae,Xerinae,Funisciurus,anerythrus,RMCA,1988.011.M.004,SCIURO,scansorial,terrestrial,fruit-seed-nut-insect,omnivorous (P),Arboreal
+SQUIR,Sciuroidea,Sciuridae,Xerinae,Funisciurus,lemniscatus,RMCA,M.26931,SCIURO,scansorial,terrestrial,fruit-seed-nut-insect,omnivorous (P),Arboreal
+SQUIR,Sciuroidea,Sciuridae,Xerinae,Heliosciurus,gambianus,NHMUK,2022.22,SCIURO,arboreal,arboreal,fruit-nut-leaf-seed-insect,omnivorous (P),Scansorial
+SQUIR,Sciuroidea,Sciuridae,Xerinae,Heliosciurus,rufobrachium,RMCA,1980.036.M.0061,SCIURO,arboreal,arboreal,fruit-nut-leaf-seed-insect,omnivorous (P),Scansorial
+SQUIR,Sciuroidea,Sciuridae,Xerinae,Marmota,marmota,MNHN-ZM-MO,1914-169,SCIURO,terricolous,burrower,grass-leaf,phytophagous (S),Terrestrial
+SQUIR,Sciuroidea,Sciuridae,Xerinae,Myosciurus,pumilio,NHMUK,1948.974,SCIURO,arboreal,arboreal,bark-fruit-insect,omnivorous (P),Arboreal
+SQUIR,Sciuroidea,Sciuridae,Xerinae,Paraxerus,boehmi,RMCA,1995.061.M.3257,SCIURO,arboreal,arboreal,fruit-nut-leaf-seed-insect,omnivorous (P),Scansorial
+SQUIR,Sciuroidea,Sciuridae,Xerinae,Protoxerus,stangeri,RMCA,1980.036.M.0054,SCIURO,arboreal,arboreal,fruit-nut-leaf-seed-insect,omnivorous (P),Scansorial
+SQUIR,Sciuroidea,Sciuridae,Xerinae,Urocitellus,richardsonii,NHMUK,1893.1.5.1,SCIURO,fossorial,burrower,fruit-nut-leaf-seed-insect,omnivorous (P),Terrestrial
+SQUIR,Sciuroidea,Sciuridae,Xerinae,Tamias,minimus,UWBM,74537,SCIURO,terricolous,terrestrial,fruit-nut-leaf-seed-insect,omnivorous (P),Terrestrial
+SQUIR,Sciuroidea,Sciuridae,Xerinae,Xerus,erythropus,NHMUK,1922.3.3.11,SCIURO,fossorial,burrower,fruit-seed-nut-insect,omnivorous (P),Terrestrial
+SQUIR,Sciuroidea,Sciuridae,Sciurillinae,Sciurillus,pusillus,NHMUK,1932.8.4.16,SCIURO,arboreal,arboreal,bark-sap and exudate of large trees,phytophagous (S),Arboreal
+CTENO,Octodontoidea,Abrocomidae,/,Abrocoma,cinerea,NHMUK,1992.302,HYSTRI,terricolous,terrestrial,leaf,phytophagous (S),Terrestrial
+CTENO,Bathyergoidea,Bathyergidae,/,Bathyergus,suillus,CBUN,1 MP,PROTRO,burrower,subterranean,"60% above-ground vegetation (herbs, grasses, sedges of the family Restionaceae, Bulbs, tubers, roots also eaten.",phytophagous (G),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Bathyergus,suillus,CBUN,2 MP,PROTRO,burrower,subterranean,"60% above-ground vegetation (herbs, grasses, sedges of the family Restionaceae, Bulbs, tubers, roots also eaten.",phytophagous (G),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Bathyergus,suillus,CBUN,2 CB,PROTRO,burrower,subterranean,"60% above-ground vegetation (herbs, grasses, sedges of the family Restionaceae, Bulbs, tubers, roots also eaten.",phytophagous (G),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Bathyergus,suillus,CBUN,3 CB,PROTRO,burrower,subterranean,"60% above-ground vegetation (herbs, grasses, sedges of the family Restionaceae, Bulbs, tubers, roots also eaten.",phytophagous (G),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Bathyergus,suillus,CBUN,BS13,PROTRO,burrower,subterranean,"60% above-ground vegetation (herbs, grasses, sedges of the family Restionaceae, Bulbs, tubers, roots also eaten.",phytophagous (G),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Cryptomys,hottentotus,CBUN,1,PROTRO,burrower,subterranean (C),"bulbs, corms and tubers",phytophagous (S),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Cryptomys,hottentotus,CBUN,2,PROTRO,burrower,subterranean (C),"bulbs, corms and tubers",phytophagous (S),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Cryptomys,hottentotus,CBUN,3,PROTRO,burrower,subterranean (C),"bulbs, corms and tubers",phytophagous (S),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Cryptomys,hottentotus,CBUN,4,PROTRO,burrower,subterranean (C),"bulbs, corms and tubers",phytophagous (S),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Cryptomys,hottentotus,CBUN,CHPB,PROTRO,burrower,subterranean (C),"bulbs, corms and tubers",phytophagous (S),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Fukomys,anselli,CBUN,FA9745 / MP9746,PROTRO,burrower,subterranean (C),"rootstocks, tubers, bulbs, corms and rhizomes",phytophagous (S),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Fukomys,anselli,CBUN,,PROTRO,burrower,subterranean (C),"rootstocks, tubers, bulbs, corms and rhizomes",phytophagous (S),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Fukomys,anselli,CBUN,840,PROTRO,burrower,subterranean (C),"rootstocks, tubers, bulbs, corms and rhizomes",phytophagous (S),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Fukomys,anselli,CBUN,864./ 8543 right,PROTRO,burrower,subterranean (C),"rootstocks, tubers, bulbs, corms and rhizomes",phytophagous (S),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Fukomys,anselli,CBUN,864./ 8543 left,PROTRO,burrower,subterranean (C),"rootstocks, tubers, bulbs, corms and rhizomes",phytophagous (S),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Fukomys,anselli,CBUN,867./ 8346 right,PROTRO,burrower,subterranean (C),"rootstocks, tubers, bulbs, corms and rhizomes",phytophagous (S),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Fukomys,anselli,CBUN,867./ 8346 left,PROTRO,burrower,subterranean (C),"rootstocks, tubers, bulbs, corms and rhizomes",phytophagous (S),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Fukomys,damarensis,PTUN,1,PROTRO,burrower,subterranean (C),"bulbs, tubers and rootstocks",phytophagous (S),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Fukomys,damarensis,PTUN,2,PROTRO,burrower,subterranean (C),"bulbs, tubers and rootstocks",phytophagous (S),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Fukomys,damarensis,PTUN,3,PROTRO,burrower,subterranean (C),"bulbs, tubers and rootstocks",phytophagous (S),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Fukomys,damarensis,PTUN,4,PROTRO,burrower,subterranean (C),"bulbs, tubers and rootstocks",phytophagous (S),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Fukomys,damarensis,PTUN,FDE,PROTRO,burrower,subterranean (C),"bulbs, tubers and rootstocks",phytophagous (S),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Fukomys,darlingi,CBUN,Z9551,PROTRO,burrower,subterranean (C),root systems of Brachystegia and Julbernardia trees,phytophagous (S),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Fukomys,darlingi,CBUN,813./ 2345,PROTRO,burrower,subterranean (C),root systems of Brachystegia and Julbernardia trees,phytophagous (S),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Fukomys,darlingi,CBUN,837./ 1653,PROTRO,burrower,subterranean (C),root systems of Brachystegia and Julbernardia trees,phytophagous (S),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Fukomys,darlingi,CBUN,845./ ?,PROTRO,burrower,subterranean (C),root systems of Brachystegia and Julbernardia trees,phytophagous (S),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Fukomys,mechowi,CBUN,177235,PROTRO,burrower,subterranean (C),"grass rhizomes, roots, bulbs and tubers of diverse weeds, shrubs and trees",phytophagous (G),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Fukomys,mechowi,CBUN,CB 1 left,PROTRO,burrower,subterranean (C),"grass rhizomes, roots, bulbs and tubers of diverse weeds, shrubs and trees",phytophagous (G),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Fukomys,mechowi,CBUN,CB 1 right,PROTRO,burrower,subterranean (C),"grass rhizomes, roots, bulbs and tubers of diverse weeds, shrubs and trees",phytophagous (G),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Fukomys,mechowi,CBUN,CB 2 right,PROTRO,burrower,subterranean (C),"grass rhizomes, roots, bulbs and tubers of diverse weeds, shrubs and trees",phytophagous (G),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Fukomys,mechowi,CBUN,CB 2 left,PROTRO,burrower,subterranean (C),"grass rhizomes, roots, bulbs and tubers of diverse weeds, shrubs and trees",phytophagous (G),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Fukomys,mechowi,CBUN,586.-02620.0,PROTRO,burrower,subterranean (C),"grass rhizomes, roots, bulbs and tubers of diverse weeds, shrubs and trees",phytophagous (G),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Fukomys,mechowi,CBUN,828./ 0774,PROTRO,burrower,subterranean (C),"grass rhizomes, roots, bulbs and tubers of diverse weeds, shrubs and trees",phytophagous (G),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Fukomys,micklemi,CBUN,842./ 7689,PROTRO,burrower,subterranean (C),root,phytophagous (S),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Fukomys,micklemi,CBUN,882./ 6739,PROTRO,burrower,subterranean (C),root,phytophagous (S),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Fukomys,micklemi,CBUN,881./ 0735,PROTRO,burrower,subterranean (C),root,phytophagous (S),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Fukomys,micklemi,CBUN,809./ 7571,PROTRO,burrower,subterranean (C),root,phytophagous (S),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Georychus,capensis,CBUN,MP1,PROTRO,burrower,subterranean (C),"grass, clover, bulbs, corms and tubers ",phytophagous (G),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Georychus,capensis,CBUN,MP2,PROTRO,burrower,subterranean (C),"grass, clover, bulbs, corms and tubers ",phytophagous (G),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Georychus,capensis,CBUN,MP3,PROTRO,burrower,subterranean (C),"grass, clover, bulbs, corms and tubers ",phytophagous (G),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Georychus,capensis,CBUN,CB4 right,PROTRO,burrower,subterranean (C),"grass, clover, bulbs, corms and tubers ",phytophagous (G),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Georychus,capensis,CBUN,CB4 left,PROTRO,burrower,subterranean (C),"grass, clover, bulbs, corms and tubers ",phytophagous (G),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Georychus,capensis,CBUN,GC11,PROTRO,burrower,subterranean (C),"grass, clover, bulbs, corms and tubers ",phytophagous (G),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Heliophobius,argenteocinereus,CBUN,638,PROTRO,burrower,subterranean (C),root,phytophagous (S),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Heliophobius,argenteocinereus,CBUN,M0X016,PROTRO,burrower,subterranean (C),root,phytophagous (S),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Heliophobius,argenteocinereus,CBUN,MOX027,PROTRO,burrower,subterranean (C),root,phytophagous (S),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Heliophobius,argenteocinereus,CBUN,M5x205,PROTRO,burrower,subterranean (C),root,phytophagous (S),Subterranean
+CTENO,Bathyergoidea,Bathyergidae,/,Heliophobius,argenteocinereus,CBUN,MSX255,PROTRO,burrower,subterranean (C),root,phytophagous (S),Subterranean
+CTENO,Cavioidea,Caviidae,Caviinae,Cavia,porcellus,UM,499V (572N?),HYSTRI,terrestrial,terrestrial,grass,phytophagous (S),Terrestrial
+CTENO,Cavioidea,Caviidae,Caviinae,Galea,musteloides,CBUN,CSB 005,HYSTRI,terricolous,terrestrial,grass,phytophagous (S),Terrestrial
+CTENO,Cavioidea,Caviidae,Caviinae,Galea,musteloides,CBUN,CSB 006,HYSTRI,terricolous,terrestrial,grass,phytophagous (S),Terrestrial
+CTENO,Cavioidea,Caviidae,Caviinae,Microcavia,australis,NHMUK,1992.403,HYSTRI,terricolous,terrestrial,grass-leaf,phytophagous (S),Terrestrial
+CTENO,Cavioidea,Caviidae,Caviinae,Dolichotis,patagonum,UM-ZOOL,3108,HYSTRI,terricolous,terrestrial,fruit-seed,phytophagous (G),Terrestrial
+CTENO,Cavioidea,Caviidae,Hydrochoerinae,Kerodon,rupestris,CBUN,CSB008,HYSTRI,terricolous,terrestrial,grass,phytophagous (S),Terrestrial
+CTENO,Cavioidea,Caviidae,Hydrochoerinae,Kerodon,rupestris,CBUN,M3414,HYSTRI,terricolous,terrestrial,grass,phytophagous (S),Terrestrial
+CTENO,Cavioidea,Caviidae,Hydrochoerinae,Kerodon,rupestris,CBUN,CSB2022-001,HYSTRI,terricolous,terrestrial,grass,phytophagous (S),Terrestrial
+CTENO,Cavioidea,Caviidae,Hydrochoerinae,Hydrochoerus,hydrochaeris,CBUN,CSB007,HYSTRI,semiaquatic,semiaquatic,grass,phytophagous (S),Terrestrial
+CTENO,Cavioidea,Caviidae,Hydrochoerinae,Hydrochoerus,hydrochaeris,JAGUARS,M2916,HYSTRI,semiaquatic,semiaquatic,grass,phytophagous (S),Terrestrial
+CTENO,Cavioidea,Caviidae,Hydrochoerinae,Hydrochoerus,hydrochaeris,JAGUARS,M5306,HYSTRI,semiaquatic,semiaquatic,grass,phytophagous (S),Terrestrial
+CTENO,Chinchilloidea,Chinchillidae,/,Chinchilla,chinchilla,UM,498V,HYSTRI,terricolous,terrestrial,grass,phytophagous (S),Terrestrial
+CTENO,Chinchilloidea,Chinchillidae,/,Chinchilla,chinchilla,MB,2022.2.3,HYSTRI,terricolous,terrestrial,grass,phytophagous (S),Terrestrial
+CTENO,Chinchilloidea,Chinchillidae,/,Chinchilla,lanigera,NHMUK,1926.7.10.32,HYSTRI,terricolous,terrestrial,grass,phytophagous (S),Terrestrial
+CTENO,Chinchilloidea,Chinchillidae,/,Chinchilla,chinchilla,UM,BOURGE-NA,HYSTRI,terricolous,terrestrial,grass,phytophagous (S),Terrestrial
+CTENO,Chinchilloidea,Chinchillidae,/,Lagostomus,maximus,NHMUK,1970.250 or 2022.20?,HYSTRI,terricolous,burrower,grass,phytophagous (S),Terrestrial
+CTENO,Ctenodactyloidea,Ctenodactylidae,/,Ctenodactylus,vali,UM,N782-2008,HYSTRI,terrestrial,terrestrial,grass,phytophagous (S),Terrestrial
+CTENO,Ctenodactyloidea,Ctenodactylidae,/,Pectinator,spekei,NHMUK,1905.11.4.22,HYSTRI,terrestrial,terrestrial,grass,phytophagous (S),Terrestrial
+CTENO,Ctenodactyloidea,Ctenodactylidae,/,Felovia,vae,NHMUK,1991.99,HYSTRI,terrestrial,terrestrial,grass,phytophagous (S),Terrestrial
+CTENO,Ctenodactyloidea,Ctenodactylidae,/,Massoutiera,mzabi,NHMUK,19.7.7.2880,HYSTRI,terrestrial,terrestrial,grass,phytophagous (S),Terrestrial
+CTENO,Octodontoidea,Ctenomyidae,/,Ctenomys,talarum,NHMUK,9.12.1.68-70,HYSTRI,burrower,subterranean,grass-root,phytophagous (S),Subterranean
+CTENO,Cavioidea,Cuniculidae,/,Cuniculus,paca,JAGUARS,M5329,HYSTRI,terrestrial,terrestrial,fruit-leaf,phytophagous (G),Terrestrial
+CTENO,Cavioidea,Cuniculidae,/,Cuniculus,paca,JAGUARS,M6159,HYSTRI,terrestrial,terrestrial,fruit-leaf,phytophagous (G),Terrestrial
+CTENO,Cavioidea,Dasyproctidae,/,Dasyprocta,leporina,JAGUARS,M5152,HYSTRI,terrestrial,terrestrial,fruit-seed,phytophagous (G),Terrestrial
+CTENO,Cavioidea,Dasyproctidae,/,Dasyprocta,leporina,JAGUARS,M5153,HYSTRI,terrestrial,terrestrial,fruit-seed,phytophagous (G),Terrestrial
+CTENO,Cavioidea,Dasyproctidae,/,Dasyprocta,leporina,JAGUARS,M5324,HYSTRI,terrestrial,terrestrial,fruit-seed,phytophagous (G),Terrestrial
+CTENO,Cavioidea,Dasyproctidae,/,Dasyprocta,leporina,JAGUARS,M6004,HYSTRI,terrestrial,terrestrial,fruit-seed,phytophagous (G),Terrestrial
+CTENO,Cavioidea,Dasyproctidae,/,Myoprocta,acouchy,MNHN-ZM-MO,1903-611,HYSTRI,terrestrial,terrestrial,fruit-seed,phytophagous (G),Terrestrial
+CTENO,Ctenodactyloidea,Diatomyidae,/,Laonastes,aenigmamus,UM,TK07-05,HYSTRI,terrestrial,terrestrial,leaf-grass-seeds,phytophagous (G),Terrestrial
+CTENO,Ctenodactyloidea,Diatomyidae,/,Laonastes,aenigmamus,UM,TK07-06,HYSTRI,terrestrial,terrestrial,leaf-grass-seeds,phytophagous (G),Terrestrial
+CTENO,Octodontoidea,Echimyidae,Capromyinae,Capromys,sp.,NHMUK,1970-250,HYSTRI,scansorial,terrestrial,phytophagous,phytophagous (G),Terrestrial
+CTENO,Octodontoidea,Echimyidae,Capromyinae,Capromys,pilorides,CBUN,CSB009,HYSTRI,scansorial,terrestrial,phytophagous,phytophagous (G),Terrestrial
+CTENO,Octodontoidea,Echimyidae,Dactylomyinae,Dactylomys,dactylinus,LMUSP(Brazil),RBM1232,HYSTRI,arboreal,arboreal,bamboo,phytophagous (S),Arboreal
+CTENO,Octodontoidea,Echimyidae,Dactylomyinae,Dactylomys,dactylinus,MZUSP(Brazil),36048,HYSTRI,arboreal,arboreal,bamboo,phytophagous (S),Arboreal
+CTENO,Octodontoidea,Echimyidae,Dactylomyinae,Dactylomys,boliviensis,LMUSP(Brazil),176,HYSTRI,arboreal,arboreal,bamboo,phytophagous (S),Arboreal
+CTENO,Octodontoidea,Echimyidae,Dactylomyinae,Kannabateomys,amblyonyx,NHMUK,92.11.24.6,HYSTRI,arboreal,arboreal,bamboo,phytophagous (S),Arboreal
+CTENO,Octodontoidea,Echimyidae,Dactylomyinae,Kannabateomys,amblyonyx,NHMUK,9.11.19.28,HYSTRI,arboreal,arboreal,bamboo,phytophagous (S),Arboreal
+CTENO,Octodontoidea,Echimyidae,Echimyinae,Makalata,didelphoides,UM,V36-40,HYSTRI,arboreal,arboreal,fruit-seed-leaf,phytophagous (G),Arboreal
+CTENO,Octodontoidea,Echimyidae,Echimyinae,Makalata,didelphoides,UM,V3641,HYSTRI,arboreal,arboreal,fruit-seed-leaf,phytophagous (G),Arboreal
+CTENO,Octodontoidea,Echimyidae,Echimyinae,Pattonomys,semivillosus,USNM,496487,HYSTRI,arboreal,arboreal,NA,NA,Arboreal
+CTENO,Octodontoidea,Echimyidae,Echimyinae,Pattonomys,semivillosus,USNM,496485,HYSTRI,arboreal,arboreal,NA,NA,Arboreal
+CTENO,Octodontoidea,Echimyidae,Eumysopinae,Euryzygomatomys,spinosus,NHMUK,9.11.19.29-31,HYSTRI,terricolous,burrower,leaf-insect,omnivorous (A),Terrestrial
+CTENO,Octodontoidea,Echimyidae,Eumysopinae,Mesomys,hispidus,JAGUARS,M1281,HYSTRI,arboreal,arboreal,fruit-insect,omnivorous (P),Arboreal
+CTENO,Octodontoidea,Echimyidae,Eumysopinae,Mesomys,hispidus,JAGUARS,M3108,HYSTRI,arboreal,arboreal,fruit-insect,omnivorous (P),Arboreal
+CTENO,Octodontoidea,Echimyidae,Eumysopinae,Mesomys,hispidus,JAGUARS,M3414,HYSTRI,arboreal,arboreal,fruit-insect,omnivorous (P),Arboreal
+CTENO,Octodontoidea,Echimyidae,Eumysopinae,Proechimys,guyannensis,JAGUARS,M1199,HYSTRI,terrestrial,terrestrial,fruit-leaf,phytophagous (G),Terrestrial
+CTENO,Octodontoidea,Echimyidae,Eumysopinae,Proechimys,guyannensis,JAGUARS,M1208,HYSTRI,terrestrial,terrestrial,fruit-leaf,phytophagous (G),Terrestrial
+CTENO,Octodontoidea,Echimyidae,Eumysopinae,Proechimys,guyannensis,JAGUARS,M1209,HYSTRI,terrestrial,terrestrial,fruit-leaf,phytophagous (G),Terrestrial
+CTENO,Octodontoidea,Echimyidae,Eumysopinae,Proechimys,guyannensis,JAGUARS,M1565,HYSTRI,terrestrial,terrestrial,fruit-leaf,phytophagous (G),Terrestrial
+CTENO,Octodontoidea,Echimyidae,Eumysopinae,Proechimys,cuvieri,JAGUARS,M3091,HYSTRI,terrestrial,terrestrial,fruit-insect,omnivorous (P),Terrestrial
+CTENO,Octodontoidea,Echimyidae,Eumysopinae,Proechimys,cuvieri,MNHN-ZM-MO,V3648,HYSTRI,terrestrial,terrestrial,fruit-insect,omnivorous (P),Terrestrial
+CTENO,Octodontoidea,Echimyidae,Eumysopinae,Proechimys,cuvieri,MNHN-ZM-MO,V3651,HYSTRI,terrestrial,terrestrial,fruit-insect,omnivorous (P),Terrestrial
+CTENO,Octodontoidea,Echimyidae,Eumysopinae,Thrichomys,laurentius,NHMUK,3.10.1.118-221,HYSTRI,terrestrial,terrestrial,fruit-seed,phytophagous (G),Terrestrial
+CTENO,Octodontoidea,Echimyidae,Eumysopinae,Trinomys,sp.,LMUSP(Brazil),514,HYSTRI,terrestrial,terrestrial,fruit-seed,phytophagous (G),Terrestrial
+CTENO,Octodontoidea,Echimyidae,Eumysopinae,Myocastor,coypus,QM,1162,HYSTRI,semiaquatic,semiaquatic/burrower,fruit-leaf,phytophagous (G),Terrestrial
+CTENO,Octodontoidea,Echimyidae,Eumysopinae,Myocastor,coypus,QM,1157,HYSTRI,semiaquatic,semiaquatic/burrower,fruit-leaf,phytophagous (G),Terrestrial
+CTENO,Octodontoidea,Echimyidae,Eumysopinae,Myocastor,coypus,UM-ZOOL,3111/QM1150,HYSTRI,semiaquatic,semiaquatic/burrower,fruit-leaf,phytophagous (G),Terrestrial
+CTENO,Erethizontoidea,Erethizontidae,/,Coendou,prehensilis,JAGUARS,M5167,HYSTRI,arboreal,arboreal,young leaf,phytophagous (G),Arboreal
+CTENO,Erethizontoidea,Erethizontidae,/,Coendou,prehensilis,JAGUARS,M6000,HYSTRI,arboreal,arboreal,young leaf,phytophagous (G),Arboreal
+CTENO,Erethizontoidea,Erethizontidae,/,Coendou,prehensilis,NHMUK,2022.18,HYSTRI,arboreal,arboreal,young leaf,phytophagous (G),Arboreal
+CTENO,Bathyergoidea,Heterocephalidae,/,Heterocephalus,glaber,CBUN,8537,PROTRO,burrower,subterranean (C),root,phytophagous (S),Subterranean
+CTENO,Bathyergoidea,Heterocephalidae,/,Heterocephalus,glaber,CBUN,599,PROTRO,burrower,subterranean (C),root,phytophagous (S),Subterranean
+CTENO,Bathyergoidea,Heterocephalidae,/,Heterocephalus,glaber,CBUN,584,PROTRO,burrower,subterranean (C),root,phytophagous (S),Subterranean
+CTENO,Bathyergoidea,Heterocephalidae,/,Heterocephalus,glaber,CBUN,545,PROTRO,burrower,subterranean (C),root,phytophagous (S),Subterranean
+CTENO,Bathyergoidea,Heterocephalidae,/,Heterocephalus,glaber,CBUN,493,PROTRO,burrower,subterranean (C),root,phytophagous (S),Subterranean
+CTENO,Bathyergoidea,Heterocephalidae,/,Heterocephalus,glaber,CBUN,8531,PROTRO,burrower,subterranean (C),root,phytophagous (S),Subterranean
+CTENO,Hystricoidea,Hystricidae,/,Atherurus,africanus,CBUN,CSB011,HYSTRI,terrestrial,terrestrial,omnivorus,omnivorous (P),Terrestrial
+CTENO,Hystricoidea,Hystricidae,/,Atherurus,africanus,CBUN,CSB012,HYSTRI,terrestrial,terrestrial,omnivorus,omnivorous (P),Terrestrial
+CTENO,Hystricoidea,Hystricidae,/,Hystrix,pumila,CBUN,CSB013,HYSTRI,terricolous,terrestrial,omnivorus,omnivorous (P),Terrestrial
+CTENO,Octodontoidea,Octodontidae,/,Octodon,degus,UM,506V,HYSTRI,burrower,burrower,grass,phytophagous (S),Terrestrial
+CTENO,Octodontoidea,Octodontidae,/,Spalacopus,cyanus,CBUN,SC2ID1,HYSTRI,burrower,subterranean (C),root,phytophagous (S),Subterranean
+CTENO,Octodontoidea,Octodontidae,/,Spalacopus,cyanus,CBUN,SC2ID2,HYSTRI,burrower,subterranean (C),root,phytophagous (S),Subterranean
+CTENO,,Thryonomyidae,,Thryonomys,swinderianus,MNHN-ZM-MO,1996-41,HYSTRI,terricolous,terrestrial,grass,phytophagous (S),Terrestrial
+CTENO,,Petromuridae,/,Petromus,typicus,NHMUK,1928.9.11.502,HYSTRI,terrestrial,terrestrial,fruit-seed,phytophagous (G),Terrestrial
+CTENO,,Petromuridae,/,Petromus,typicus,NHMUK,2022.25,HYSTRI,terrestrial,terrestrial,fruit-seed,phytophagous (G),Terrestrial
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,LEGEND,,,,,,,,,,,,
+,,Infos manquantes ou à vérifier,,,,,,,,,,,
+,,A disséquer pour projet dents / discusté avec Vincent et Helder,,,,,,,,,,,
+,,Rajouté par Benoit,,,,,,,,,,,
+,,Dents et crâne reconstruits ,,,,,,,,,,,
+,,Spécimens iodés,,,,,,,,,,,
+,,3D reconstruction done,,,,,,,,,,,
+,,Spécimens à ioder,,,,,,,,,,,
+,,,,,,,,,,,,,
+,SAM'S PHD DATABASE,,,,,,,,,,,,
+MOUS,,Muridae,Murinae,Maxomys,surifer,UM,7185,,,,,,
+MOUS,,Muridae,Murinae,Maxomys,surifer,UM,7186,,,,,,
+MOUS,,Muridae,Murinae,Maxomys,surifer,UM,7187,,,,,,
+MOUS,,Muridae,Murinae,Maxomys,surifer,UM,7191,,,,,,
+MOUS,,Muridae,Murinae,Maxomys,surifer,UM,7192,,,,,,
+MOUS,,Muridae,Murinae,Maxomys,surifer,UM,7193,,,,,,
+MOUS,,Muridae,Murinae,Maxomys,surifer,UM,7194,,,,,,
+MOUS,,Muridae,Murinae,Melomys,obiensis,UM,YS360,,,,,,
+MOUS,,Muridae,Murinae,Mus,sp.,UM,7195,,,,,,
+MOUS,,Muridae,Murinae,Mus,caroli,UM,7225,,,,,,
+MOUS,,Muridae,Murinae,Mus,caroli,UM,7236,,,,,,
+MOUS,,Muridae,Murinae,Mus,caroli,UM,7264,,,,,,
+MOUS,,Muridae,Murinae,Mus,caroli,UM,KTK24_13,,,,,,
+MOUS,,Muridae,Murinae,Mus,caroli,UM,KTK24_7,,,,,,
+MOUS,,Muridae,Murinae,Mus,cervicolor,UM,7255,,,,,,
+MOUS,,Muridae,Murinae,Mus,cervicolor,UM,7258,,,,,,
+MOUS,,Muridae,Murinae,Mus,cervicolor,UM,7259,,,,,,
+MOUS,,Muridae,Murinae,Mus,cervicolor,UM,7262,,,,,,
+MOUS,,Muridae,Murinae,Mus,cervicolor,UM,7263,,,,,,
+MOUS,,Muridae,Murinae,Mus,cervicolor,UM,7286,,,,,,
+MOUS,,Muridae,Murinae,Mus,cervicolor,UM,7304,,,,,,
+MOUS,,Muridae,Murinae,Mus,cervicolor,UM,7313,,,,,,
+MOUS,,Muridae,Murinae,Mus,cervicolor,UM,7314,,,,,,
+MOUS,,Muridae,Murinae,Mus,cervicolor,UM,7315,,,,,,
+MOUS,,Muridae,Murinae,Mus,cookii,UM,7210,,,,,,
+MOUS,,Muridae,Murinae,Mus,cookii,UM,7238,,,,,,
+MOUS,,Muridae,Murinae,Mus,cookii,UM,7239,,,,,,
+MOUS,,Muridae,Murinae,Mus,cookii,UM,7243,,,,,,
+MOUS,,Muridae,Murinae,Mus,fragilicauda,UM,7254,,,,,,
+MOUS,,Muridae,Murinae,Mus,fragilicauda,UM,7261,,,,,,
+MOUS,,Muridae,Murinae,Mus,fragilicauda,UM,7260,,,,,,
+MOUS,,Muridae,Murinae,Mus,mattheyi,UM,mattheyi1,,,,,,
+MOUS,,Muridae,Murinae,Mus,minutoides,UM,minut1,,,,,,
+MOUS,,Muridae,Murinae,Mus,minutoides,UM,minut2,,,,,,
+MOUS,,Muridae,Murinae,Mus,pahari,UM,7226,,,,,,
+MOUS,,Muridae,Murinae,Mus,pahari,UM,7235,,,,,,
+MOUS,,Muridae,Murinae,Mus,pahari,UM,PAH54_7,,,,,,
+MOUS,,Muridae,Murinae,Mus,pahari,UM,PAH54_9,,,,,,
+MOUS,,Muridae,Murinae,Niviventer,fulvescens,UM,7198,,,,,,
+MOUS,,Muridae,Murinae,Niviventer,fulvescens,UM,7200,,,,,,
+MOUS,,Muridae,Murinae,Niviventer,fulvescens,UM,7227,,,,,,
+MOUS,,Muridae,Murinae,Niviventer,fulvescens,UM,7240,,,,,,
+MOUS,,Muridae,Murinae,Niviventer,fulvescens,UM,7244,,,,,,
+MOUS,,Muridae,Murinae,Niviventer,fulvescens,UM,7245,,,,,,
+MOUS,,Muridae,Murinae,Niviventer,fulvescens,UM,7246,,,,,,
+MOUS,,Muridae,Murinae,Niviventer,fulvescens,UM,7248,,,,,,
+MOUS,,Muridae,Murinae,Rattus,andamanensis,UM,7216,,,,,,
+MOUS,,Muridae,Murinae,Rattus,exulans,UM,7267,,,,,,
+MOUS,,Muridae,Murinae,Rattus,exulans,UM,7288,,,,,,
+MOUS,,Muridae,Murinae,Rattus,exulans,UM,7291,,,,,,
+MOUS,,Muridae,Murinae,Rattus,exulans,UM,7292,,,,,,
+MOUS,,Muridae,Murinae,Rattus,exulans,UM,7296,,,,,,
+MOUS,,Muridae,Murinae,Rattus,exulans,UM,7298,,,,,,
+MOUS,,Muridae,Murinae,Rattus,exulans,UM,7306,,,,,,
+MOUS,,Muridae,Murinae,Rattus,exulans,UM,7311,,,,,,
+MOUS,,Muridae,Murinae,Rattus,tanezumi,UM,7201,,,,,,
+MOUS,,Muridae,Murinae,Rattus,tanezumi,UM,7206,,,,,,
+MOUS,,Muridae,Murinae,Rattus,tanezumi,UM,7208,,,,,,
+MOUS,,Muridae,Murinae,Rattus,tanezumi,UM,7209,,,,,,
+MOUS,,Muridae,Murinae,Rattus,tanezumi,UM,7217,,,,,,
+MOUS,,Muridae,Murinae,Rattus,tanezumi,UM,7257,,,,,,
+MOUS,,Muridae,Murinae,Rattus,tanezumi,UM,7270,,,,,,
+MOUS,,Muridae,Murinae,Rattus,tanezumi,UM,7273,,,,,,
+MOUS,,Muridae,Murinae,Rattus,tanezumi,UM,7284,,,,,,
+MOUS,,Muridae,Murinae,Rattus,tanezumi,UM,7302,,,,,,
+MOUS,,Muridae,Murinae,Rattus,tanezumi,UM,7317,,,,,,
+MOUS,,Muridae,Murinae,Rattus,tanezumi,UM,7319,,,,,,
+MOUS,,Muridae,Murinae,Rattus,tanezumi,UM,7320,,,,,,
+MOUS,,Muridae,Murinae,Rattus,tanezumi,MZB,,,,,,,
